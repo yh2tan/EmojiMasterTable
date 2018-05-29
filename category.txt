@@ -1,0 +1,2626 @@
+<item>1F600;Smileys and People</item>
+<item>1F601;Smileys and People</item>
+<item>1F602;Smileys and People</item>
+<item>1F923;Smileys and People</item>
+<item>1F603;Smileys and People</item>
+<item>1F604;Smileys and People</item>
+<item>1F605;Smileys and People</item>
+<item>1F606;Smileys and People</item>
+<item>1F609;Smileys and People</item>
+<item>1F60A;Smileys and People</item>
+<item>1F60B;Smileys and People</item>
+<item>1F60E;Smileys and People</item>
+<item>1F60D;Smileys and People</item>
+<item>1F618;Smileys and People</item>
+<item>1F617;Smileys and People</item>
+<item>1F619;Smileys and People</item>
+<item>1F61A;Smileys and People</item>
+<item>263A,FE0F;Smileys and People</item>
+<item>1F642;Smileys and People</item>
+<item>1F917;Smileys and People</item>
+<item>1F929;Smileys and People</item>
+<item>1F914;Smileys and People</item>
+<item>1F928;Smileys and People</item>
+<item>1F610;Smileys and People</item>
+<item>1F611;Smileys and People</item>
+<item>1F636;Smileys and People</item>
+<item>1F644;Smileys and People</item>
+<item>1F60F;Smileys and People</item>
+<item>1F623;Smileys and People</item>
+<item>1F625;Smileys and People</item>
+<item>1F62E;Smileys and People</item>
+<item>1F910;Smileys and People</item>
+<item>1F62F;Smileys and People</item>
+<item>1F62A;Smileys and People</item>
+<item>1F62B;Smileys and People</item>
+<item>1F634;Smileys and People</item>
+<item>1F60C;Smileys and People</item>
+<item>1F61B;Smileys and People</item>
+<item>1F61C;Smileys and People</item>
+<item>1F61D;Smileys and People</item>
+<item>1F924;Smileys and People</item>
+<item>1F612;Smileys and People</item>
+<item>1F613;Smileys and People</item>
+<item>1F614;Smileys and People</item>
+<item>1F615;Smileys and People</item>
+<item>1F643;Smileys and People</item>
+<item>1F911;Smileys and People</item>
+<item>1F632;Smileys and People</item>
+<item>2639,FE0F;Smileys and People</item>
+<item>1F641;Smileys and People</item>
+<item>1F616;Smileys and People</item>
+<item>1F61E;Smileys and People</item>
+<item>1F61F;Smileys and People</item>
+<item>1F624;Smileys and People</item>
+<item>1F622;Smileys and People</item>
+<item>1F62D;Smileys and People</item>
+<item>1F626;Smileys and People</item>
+<item>1F627;Smileys and People</item>
+<item>1F628;Smileys and People</item>
+<item>1F629;Smileys and People</item>
+<item>1F92F;Smileys and People</item>
+<item>1F62C;Smileys and People</item>
+<item>1F630;Smileys and People</item>
+<item>1F631;Smileys and People</item>
+<item>1F633;Smileys and People</item>
+<item>1F92A;Smileys and People</item>
+<item>1F635;Smileys and People</item>
+<item>1F621;Smileys and People</item>
+<item>1F620;Smileys and People</item>
+<item>1F92C;Smileys and People</item>
+<item>1F637;Smileys and People</item>
+<item>1F912;Smileys and People</item>
+<item>1F915;Smileys and People</item>
+<item>1F922;Smileys and People</item>
+<item>1F92E;Smileys and People</item>
+<item>1F927;Smileys and People</item>
+<item>1F607;Smileys and People</item>
+<item>1F920;Smileys and People</item>
+<item>1F921;Smileys and People</item>
+<item>1F925;Smileys and People</item>
+<item>1F92B;Smileys and People</item>
+<item>1F92D;Smileys and People</item>
+<item>1F9D0;Smileys and People</item>
+<item>1F913;Smileys and People</item>
+<item>1F608;Smileys and People</item>
+<item>1F47F;Smileys and People</item>
+<item>1F479;Smileys and People</item>
+<item>1F47A;Smileys and People</item>
+<item>1F480;Smileys and People</item>
+<item>2620,FE0F;Smileys and People</item>
+<item>1F47B;Smileys and People</item>
+<item>1F47D;Smileys and People</item>
+<item>1F47E;Smileys and People</item>
+<item>1F916;Smileys and People</item>
+<item>1F4A9;Smileys and People</item>
+<item>1F63A;Smileys and People</item>
+<item>1F638;Smileys and People</item>
+<item>1F639;Smileys and People</item>
+<item>1F63B;Smileys and People</item>
+<item>1F63C;Smileys and People</item>
+<item>1F63D;Smileys and People</item>
+<item>1F640;Smileys and People</item>
+<item>1F63F;Smileys and People</item>
+<item>1F63E;Smileys and People</item>
+<item>1F648;Smileys and People</item>
+<item>1F649;Smileys and People</item>
+<item>1F64A;Smileys and People</item>
+<item>1F476;Smileys and People</item>
+<item>1F476,1F3FB;Smileys and People</item>
+<item>1F476,1F3FC;Smileys and People</item>
+<item>1F476,1F3FD;Smileys and People</item>
+<item>1F476,1F3FE;Smileys and People</item>
+<item>1F476,1F3FF;Smileys and People</item>
+<item>1F9D2;Smileys and People</item>
+<item>1F9D2,1F3FB;Smileys and People</item>
+<item>1F9D2,1F3FC;Smileys and People</item>
+<item>1F9D2,1F3FD;Smileys and People</item>
+<item>1F9D2,1F3FE;Smileys and People</item>
+<item>1F9D2,1F3FF;Smileys and People</item>
+<item>1F466;Smileys and People</item>
+<item>1F466,1F3FB;Smileys and People</item>
+<item>1F466,1F3FC;Smileys and People</item>
+<item>1F466,1F3FD;Smileys and People</item>
+<item>1F466,1F3FE;Smileys and People</item>
+<item>1F466,1F3FF;Smileys and People</item>
+<item>1F467;Smileys and People</item>
+<item>1F467,1F3FB;Smileys and People</item>
+<item>1F467,1F3FC;Smileys and People</item>
+<item>1F467,1F3FD;Smileys and People</item>
+<item>1F467,1F3FE;Smileys and People</item>
+<item>1F467,1F3FF;Smileys and People</item>
+<item>1F9D1;Smileys and People</item>
+<item>1F9D1,1F3FB;Smileys and People</item>
+<item>1F9D1,1F3FC;Smileys and People</item>
+<item>1F9D1,1F3FD;Smileys and People</item>
+<item>1F9D1,1F3FE;Smileys and People</item>
+<item>1F9D1,1F3FF;Smileys and People</item>
+<item>1F468;Smileys and People</item>
+<item>1F468,1F3FB;Smileys and People</item>
+<item>1F468,1F3FC;Smileys and People</item>
+<item>1F468,1F3FD;Smileys and People</item>
+<item>1F468,1F3FE;Smileys and People</item>
+<item>1F468,1F3FF;Smileys and People</item>
+<item>1F469;Smileys and People</item>
+<item>1F469,1F3FB;Smileys and People</item>
+<item>1F469,1F3FC;Smileys and People</item>
+<item>1F469,1F3FD;Smileys and People</item>
+<item>1F469,1F3FE;Smileys and People</item>
+<item>1F469,1F3FF;Smileys and People</item>
+<item>1F9D3;Smileys and People</item>
+<item>1F9D3,1F3FB;Smileys and People</item>
+<item>1F9D3,1F3FC;Smileys and People</item>
+<item>1F9D3,1F3FD;Smileys and People</item>
+<item>1F9D3,1F3FE;Smileys and People</item>
+<item>1F9D3,1F3FF;Smileys and People</item>
+<item>1F474;Smileys and People</item>
+<item>1F474,1F3FB;Smileys and People</item>
+<item>1F474,1F3FC;Smileys and People</item>
+<item>1F474,1F3FD;Smileys and People</item>
+<item>1F474,1F3FE;Smileys and People</item>
+<item>1F474,1F3FF;Smileys and People</item>
+<item>1F475;Smileys and People</item>
+<item>1F475,1F3FB;Smileys and People</item>
+<item>1F475,1F3FC;Smileys and People</item>
+<item>1F475,1F3FD;Smileys and People</item>
+<item>1F475,1F3FE;Smileys and People</item>
+<item>1F475,1F3FF;Smileys and People</item>
+<item>1F468,200D,2695,FE0F;Smileys and People</item>
+<item>1F468,1F3FB,200D,2695,FE0F;Smileys and People</item>
+<item>1F468,1F3FC,200D,2695,FE0F;Smileys and People</item>
+<item>1F468,1F3FD,200D,2695,FE0F;Smileys and People</item>
+<item>1F468,1F3FE,200D,2695,FE0F;Smileys and People</item>
+<item>1F468,1F3FF,200D,2695,FE0F;Smileys and People</item>
+<item>1F469,200D,2695,FE0F;Smileys and People</item>
+<item>1F469,1F3FB,200D,2695,FE0F;Smileys and People</item>
+<item>1F469,1F3FC,200D,2695,FE0F;Smileys and People</item>
+<item>1F469,1F3FD,200D,2695,FE0F;Smileys and People</item>
+<item>1F469,1F3FE,200D,2695,FE0F;Smileys and People</item>
+<item>1F469,1F3FF,200D,2695,FE0F;Smileys and People</item>
+<item>1F468,200D,1F393;Smileys and People</item>
+<item>1F468,1F3FB,200D,1F393;Smileys and People</item>
+<item>1F468,1F3FC,200D,1F393;Smileys and People</item>
+<item>1F468,1F3FD,200D,1F393;Smileys and People</item>
+<item>1F468,1F3FE,200D,1F393;Smileys and People</item>
+<item>1F468,1F3FF,200D,1F393;Smileys and People</item>
+<item>1F469,200D,1F393;Smileys and People</item>
+<item>1F469,1F3FB,200D,1F393;Smileys and People</item>
+<item>1F469,1F3FC,200D,1F393;Smileys and People</item>
+<item>1F469,1F3FD,200D,1F393;Smileys and People</item>
+<item>1F469,1F3FE,200D,1F393;Smileys and People</item>
+<item>1F469,1F3FF,200D,1F393;Smileys and People</item>
+<item>1F468,200D,1F3EB;Smileys and People</item>
+<item>1F468,1F3FB,200D,1F3EB;Smileys and People</item>
+<item>1F468,1F3FC,200D,1F3EB;Smileys and People</item>
+<item>1F468,1F3FD,200D,1F3EB;Smileys and People</item>
+<item>1F468,1F3FE,200D,1F3EB;Smileys and People</item>
+<item>1F468,1F3FF,200D,1F3EB;Smileys and People</item>
+<item>1F469,200D,1F3EB;Smileys and People</item>
+<item>1F469,1F3FB,200D,1F3EB;Smileys and People</item>
+<item>1F469,1F3FC,200D,1F3EB;Smileys and People</item>
+<item>1F469,1F3FD,200D,1F3EB;Smileys and People</item>
+<item>1F469,1F3FE,200D,1F3EB;Smileys and People</item>
+<item>1F469,1F3FF,200D,1F3EB;Smileys and People</item>
+<item>1F468,200D,2696,FE0F;Smileys and People</item>
+<item>1F468,1F3FB,200D,2696,FE0F;Smileys and People</item>
+<item>1F468,1F3FC,200D,2696,FE0F;Smileys and People</item>
+<item>1F468,1F3FD,200D,2696,FE0F;Smileys and People</item>
+<item>1F468,1F3FE,200D,2696,FE0F;Smileys and People</item>
+<item>1F468,1F3FF,200D,2696,FE0F;Smileys and People</item>
+<item>1F469,200D,2696,FE0F;Smileys and People</item>
+<item>1F469,1F3FB,200D,2696,FE0F;Smileys and People</item>
+<item>1F469,1F3FC,200D,2696,FE0F;Smileys and People</item>
+<item>1F469,1F3FD,200D,2696,FE0F;Smileys and People</item>
+<item>1F469,1F3FE,200D,2696,FE0F;Smileys and People</item>
+<item>1F469,1F3FF,200D,2696,FE0F;Smileys and People</item>
+<item>1F468,200D,1F33E;Smileys and People</item>
+<item>1F468,1F3FB,200D,1F33E;Smileys and People</item>
+<item>1F468,1F3FC,200D,1F33E;Smileys and People</item>
+<item>1F468,1F3FD,200D,1F33E;Smileys and People</item>
+<item>1F468,1F3FE,200D,1F33E;Smileys and People</item>
+<item>1F468,1F3FF,200D,1F33E;Smileys and People</item>
+<item>1F469,200D,1F33E;Smileys and People</item>
+<item>1F469,1F3FB,200D,1F33E;Smileys and People</item>
+<item>1F469,1F3FC,200D,1F33E;Smileys and People</item>
+<item>1F469,1F3FD,200D,1F33E;Smileys and People</item>
+<item>1F469,1F3FE,200D,1F33E;Smileys and People</item>
+<item>1F469,1F3FF,200D,1F33E;Smileys and People</item>
+<item>1F468,200D,1F373;Smileys and People</item>
+<item>1F468,1F3FB,200D,1F373;Smileys and People</item>
+<item>1F468,1F3FC,200D,1F373;Smileys and People</item>
+<item>1F468,1F3FD,200D,1F373;Smileys and People</item>
+<item>1F468,1F3FE,200D,1F373;Smileys and People</item>
+<item>1F468,1F3FF,200D,1F373;Smileys and People</item>
+<item>1F469,200D,1F373;Smileys and People</item>
+<item>1F469,1F3FB,200D,1F373;Smileys and People</item>
+<item>1F469,1F3FC,200D,1F373;Smileys and People</item>
+<item>1F469,1F3FD,200D,1F373;Smileys and People</item>
+<item>1F469,1F3FE,200D,1F373;Smileys and People</item>
+<item>1F469,1F3FF,200D,1F373;Smileys and People</item>
+<item>1F468,200D,1F527;Smileys and People</item>
+<item>1F468,1F3FB,200D,1F527;Smileys and People</item>
+<item>1F468,1F3FC,200D,1F527;Smileys and People</item>
+<item>1F468,1F3FD,200D,1F527;Smileys and People</item>
+<item>1F468,1F3FE,200D,1F527;Smileys and People</item>
+<item>1F468,1F3FF,200D,1F527;Smileys and People</item>
+<item>1F469,200D,1F527;Smileys and People</item>
+<item>1F469,1F3FB,200D,1F527;Smileys and People</item>
+<item>1F469,1F3FC,200D,1F527;Smileys and People</item>
+<item>1F469,1F3FD,200D,1F527;Smileys and People</item>
+<item>1F469,1F3FE,200D,1F527;Smileys and People</item>
+<item>1F469,1F3FF,200D,1F527;Smileys and People</item>
+<item>1F468,200D,1F3ED;Smileys and People</item>
+<item>1F468,1F3FB,200D,1F3ED;Smileys and People</item>
+<item>1F468,1F3FC,200D,1F3ED;Smileys and People</item>
+<item>1F468,1F3FD,200D,1F3ED;Smileys and People</item>
+<item>1F468,1F3FE,200D,1F3ED;Smileys and People</item>
+<item>1F468,1F3FF,200D,1F3ED;Smileys and People</item>
+<item>1F469,200D,1F3ED;Smileys and People</item>
+<item>1F469,1F3FB,200D,1F3ED;Smileys and People</item>
+<item>1F469,1F3FC,200D,1F3ED;Smileys and People</item>
+<item>1F469,1F3FD,200D,1F3ED;Smileys and People</item>
+<item>1F469,1F3FE,200D,1F3ED;Smileys and People</item>
+<item>1F469,1F3FF,200D,1F3ED;Smileys and People</item>
+<item>1F468,200D,1F4BC;Smileys and People</item>
+<item>1F468,1F3FB,200D,1F4BC;Smileys and People</item>
+<item>1F468,1F3FC,200D,1F4BC;Smileys and People</item>
+<item>1F468,1F3FD,200D,1F4BC;Smileys and People</item>
+<item>1F468,1F3FE,200D,1F4BC;Smileys and People</item>
+<item>1F468,1F3FF,200D,1F4BC;Smileys and People</item>
+<item>1F469,200D,1F4BC;Smileys and People</item>
+<item>1F469,1F3FB,200D,1F4BC;Smileys and People</item>
+<item>1F469,1F3FC,200D,1F4BC;Smileys and People</item>
+<item>1F469,1F3FD,200D,1F4BC;Smileys and People</item>
+<item>1F469,1F3FE,200D,1F4BC;Smileys and People</item>
+<item>1F469,1F3FF,200D,1F4BC;Smileys and People</item>
+<item>1F468,200D,1F52C;Smileys and People</item>
+<item>1F468,1F3FB,200D,1F52C;Smileys and People</item>
+<item>1F468,1F3FC,200D,1F52C;Smileys and People</item>
+<item>1F468,1F3FD,200D,1F52C;Smileys and People</item>
+<item>1F468,1F3FE,200D,1F52C;Smileys and People</item>
+<item>1F468,1F3FF,200D,1F52C;Smileys and People</item>
+<item>1F469,200D,1F52C;Smileys and People</item>
+<item>1F469,1F3FB,200D,1F52C;Smileys and People</item>
+<item>1F469,1F3FC,200D,1F52C;Smileys and People</item>
+<item>1F469,1F3FD,200D,1F52C;Smileys and People</item>
+<item>1F469,1F3FE,200D,1F52C;Smileys and People</item>
+<item>1F469,1F3FF,200D,1F52C;Smileys and People</item>
+<item>1F468,200D,1F4BB;Smileys and People</item>
+<item>1F468,1F3FB,200D,1F4BB;Smileys and People</item>
+<item>1F468,1F3FC,200D,1F4BB;Smileys and People</item>
+<item>1F468,1F3FD,200D,1F4BB;Smileys and People</item>
+<item>1F468,1F3FE,200D,1F4BB;Smileys and People</item>
+<item>1F468,1F3FF,200D,1F4BB;Smileys and People</item>
+<item>1F469,200D,1F4BB;Smileys and People</item>
+<item>1F469,1F3FB,200D,1F4BB;Smileys and People</item>
+<item>1F469,1F3FC,200D,1F4BB;Smileys and People</item>
+<item>1F469,1F3FD,200D,1F4BB;Smileys and People</item>
+<item>1F469,1F3FE,200D,1F4BB;Smileys and People</item>
+<item>1F469,1F3FF,200D,1F4BB;Smileys and People</item>
+<item>1F468,200D,1F3A4;Smileys and People</item>
+<item>1F468,1F3FB,200D,1F3A4;Smileys and People</item>
+<item>1F468,1F3FC,200D,1F3A4;Smileys and People</item>
+<item>1F468,1F3FD,200D,1F3A4;Smileys and People</item>
+<item>1F468,1F3FE,200D,1F3A4;Smileys and People</item>
+<item>1F468,1F3FF,200D,1F3A4;Smileys and People</item>
+<item>1F469,200D,1F3A4;Smileys and People</item>
+<item>1F469,1F3FB,200D,1F3A4;Smileys and People</item>
+<item>1F469,1F3FC,200D,1F3A4;Smileys and People</item>
+<item>1F469,1F3FD,200D,1F3A4;Smileys and People</item>
+<item>1F469,1F3FE,200D,1F3A4;Smileys and People</item>
+<item>1F469,1F3FF,200D,1F3A4;Smileys and People</item>
+<item>1F468,200D,1F3A8;Smileys and People</item>
+<item>1F468,1F3FB,200D,1F3A8;Smileys and People</item>
+<item>1F468,1F3FC,200D,1F3A8;Smileys and People</item>
+<item>1F468,1F3FD,200D,1F3A8;Smileys and People</item>
+<item>1F468,1F3FE,200D,1F3A8;Smileys and People</item>
+<item>1F468,1F3FF,200D,1F3A8;Smileys and People</item>
+<item>1F469,200D,1F3A8;Smileys and People</item>
+<item>1F469,1F3FB,200D,1F3A8;Smileys and People</item>
+<item>1F469,1F3FC,200D,1F3A8;Smileys and People</item>
+<item>1F469,1F3FD,200D,1F3A8;Smileys and People</item>
+<item>1F469,1F3FE,200D,1F3A8;Smileys and People</item>
+<item>1F469,1F3FF,200D,1F3A8;Smileys and People</item>
+<item>1F468,200D,2708,FE0F;Smileys and People</item>
+<item>1F468,1F3FB,200D,2708,FE0F;Smileys and People</item>
+<item>1F468,1F3FC,200D,2708,FE0F;Smileys and People</item>
+<item>1F468,1F3FD,200D,2708,FE0F;Smileys and People</item>
+<item>1F468,1F3FE,200D,2708,FE0F;Smileys and People</item>
+<item>1F468,1F3FF,200D,2708,FE0F;Smileys and People</item>
+<item>1F469,200D,2708,FE0F;Smileys and People</item>
+<item>1F469,1F3FB,200D,2708,FE0F;Smileys and People</item>
+<item>1F469,1F3FC,200D,2708,FE0F;Smileys and People</item>
+<item>1F469,1F3FD,200D,2708,FE0F;Smileys and People</item>
+<item>1F469,1F3FE,200D,2708,FE0F;Smileys and People</item>
+<item>1F469,1F3FF,200D,2708,FE0F;Smileys and People</item>
+<item>1F468,200D,1F680;Smileys and People</item>
+<item>1F468,1F3FB,200D,1F680;Smileys and People</item>
+<item>1F468,1F3FC,200D,1F680;Smileys and People</item>
+<item>1F468,1F3FD,200D,1F680;Smileys and People</item>
+<item>1F468,1F3FE,200D,1F680;Smileys and People</item>
+<item>1F468,1F3FF,200D,1F680;Smileys and People</item>
+<item>1F469,200D,1F680;Smileys and People</item>
+<item>1F469,1F3FB,200D,1F680;Smileys and People</item>
+<item>1F469,1F3FC,200D,1F680;Smileys and People</item>
+<item>1F469,1F3FD,200D,1F680;Smileys and People</item>
+<item>1F469,1F3FE,200D,1F680;Smileys and People</item>
+<item>1F469,1F3FF,200D,1F680;Smileys and People</item>
+<item>1F468,200D,1F692;Smileys and People</item>
+<item>1F468,1F3FB,200D,1F692;Smileys and People</item>
+<item>1F468,1F3FC,200D,1F692;Smileys and People</item>
+<item>1F468,1F3FD,200D,1F692;Smileys and People</item>
+<item>1F468,1F3FE,200D,1F692;Smileys and People</item>
+<item>1F468,1F3FF,200D,1F692;Smileys and People</item>
+<item>1F469,200D,1F692;Smileys and People</item>
+<item>1F469,1F3FB,200D,1F692;Smileys and People</item>
+<item>1F469,1F3FC,200D,1F692;Smileys and People</item>
+<item>1F469,1F3FD,200D,1F692;Smileys and People</item>
+<item>1F469,1F3FE,200D,1F692;Smileys and People</item>
+<item>1F469,1F3FF,200D,1F692;Smileys and People</item>
+<item>1F46E;Smileys and People</item>
+<item>1F46E,1F3FB;Smileys and People</item>
+<item>1F46E,1F3FC;Smileys and People</item>
+<item>1F46E,1F3FD;Smileys and People</item>
+<item>1F46E,1F3FE;Smileys and People</item>
+<item>1F46E,1F3FF;Smileys and People</item>
+<item>1F46E,200D,2642,FE0F;Smileys and People</item>
+<item>1F46E,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F46E,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F46E,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F46E,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F46E,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F46E,200D,2640,FE0F;Smileys and People</item>
+<item>1F46E,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F46E,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F46E,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F46E,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F46E,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F575,FE0F;Smileys and People</item>
+<item>1F575,1F3FB;Smileys and People</item>
+<item>1F575,1F3FC;Smileys and People</item>
+<item>1F575,1F3FD;Smileys and People</item>
+<item>1F575,1F3FE;Smileys and People</item>
+<item>1F575,1F3FF;Smileys and People</item>
+<item>1F575,FE0F,200D,2642,FE0F;Smileys and People</item>
+<item>1F575,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F575,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F575,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F575,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F575,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F575,FE0F,200D,2640,FE0F;Smileys and People</item>
+<item>1F575,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F575,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F575,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F575,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F575,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F482;Smileys and People</item>
+<item>1F482,1F3FB;Smileys and People</item>
+<item>1F482,1F3FC;Smileys and People</item>
+<item>1F482,1F3FD;Smileys and People</item>
+<item>1F482,1F3FE;Smileys and People</item>
+<item>1F482,1F3FF;Smileys and People</item>
+<item>1F482,200D,2642,FE0F;Smileys and People</item>
+<item>1F482,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F482,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F482,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F482,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F482,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F482,200D,2640,FE0F;Smileys and People</item>
+<item>1F482,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F482,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F482,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F482,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F482,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F477;Smileys and People</item>
+<item>1F477,1F3FB;Smileys and People</item>
+<item>1F477,1F3FC;Smileys and People</item>
+<item>1F477,1F3FD;Smileys and People</item>
+<item>1F477,1F3FE;Smileys and People</item>
+<item>1F477,1F3FF;Smileys and People</item>
+<item>1F477,200D,2642,FE0F;Smileys and People</item>
+<item>1F477,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F477,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F477,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F477,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F477,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F477,200D,2640,FE0F;Smileys and People</item>
+<item>1F477,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F477,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F477,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F477,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F477,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F934;Smileys and People</item>
+<item>1F934,1F3FB;Smileys and People</item>
+<item>1F934,1F3FC;Smileys and People</item>
+<item>1F934,1F3FD;Smileys and People</item>
+<item>1F934,1F3FE;Smileys and People</item>
+<item>1F934,1F3FF;Smileys and People</item>
+<item>1F478;Smileys and People</item>
+<item>1F478,1F3FB;Smileys and People</item>
+<item>1F478,1F3FC;Smileys and People</item>
+<item>1F478,1F3FD;Smileys and People</item>
+<item>1F478,1F3FE;Smileys and People</item>
+<item>1F478,1F3FF;Smileys and People</item>
+<item>1F473;Smileys and People</item>
+<item>1F473,1F3FB;Smileys and People</item>
+<item>1F473,1F3FC;Smileys and People</item>
+<item>1F473,1F3FD;Smileys and People</item>
+<item>1F473,1F3FE;Smileys and People</item>
+<item>1F473,1F3FF;Smileys and People</item>
+<item>1F473,200D,2642,FE0F;Smileys and People</item>
+<item>1F473,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F473,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F473,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F473,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F473,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F473,200D,2640,FE0F;Smileys and People</item>
+<item>1F473,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F473,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F473,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F473,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F473,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F472;Smileys and People</item>
+<item>1F472,1F3FB;Smileys and People</item>
+<item>1F472,1F3FC;Smileys and People</item>
+<item>1F472,1F3FD;Smileys and People</item>
+<item>1F472,1F3FE;Smileys and People</item>
+<item>1F472,1F3FF;Smileys and People</item>
+<item>1F9D5;Smileys and People</item>
+<item>1F9D5,1F3FB;Smileys and People</item>
+<item>1F9D5,1F3FC;Smileys and People</item>
+<item>1F9D5,1F3FD;Smileys and People</item>
+<item>1F9D5,1F3FE;Smileys and People</item>
+<item>1F9D5,1F3FF;Smileys and People</item>
+<item>1F9D4;Smileys and People</item>
+<item>1F9D4,1F3FB;Smileys and People</item>
+<item>1F9D4,1F3FC;Smileys and People</item>
+<item>1F9D4,1F3FD;Smileys and People</item>
+<item>1F9D4,1F3FE;Smileys and People</item>
+<item>1F9D4,1F3FF;Smileys and People</item>
+<item>1F471;Smileys and People</item>
+<item>1F471,1F3FB;Smileys and People</item>
+<item>1F471,1F3FC;Smileys and People</item>
+<item>1F471,1F3FD;Smileys and People</item>
+<item>1F471,1F3FE;Smileys and People</item>
+<item>1F471,1F3FF;Smileys and People</item>
+<item>1F471,200D,2642,FE0F;Smileys and People</item>
+<item>1F471,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F471,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F471,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F471,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F471,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F471,200D,2640,FE0F;Smileys and People</item>
+<item>1F471,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F471,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F471,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F471,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F471,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F935;Smileys and People</item>
+<item>1F935,1F3FB;Smileys and People</item>
+<item>1F935,1F3FC;Smileys and People</item>
+<item>1F935,1F3FD;Smileys and People</item>
+<item>1F935,1F3FE;Smileys and People</item>
+<item>1F935,1F3FF;Smileys and People</item>
+<item>1F470;Smileys and People</item>
+<item>1F470,1F3FB;Smileys and People</item>
+<item>1F470,1F3FC;Smileys and People</item>
+<item>1F470,1F3FD;Smileys and People</item>
+<item>1F470,1F3FE;Smileys and People</item>
+<item>1F470,1F3FF;Smileys and People</item>
+<item>1F930;Smileys and People</item>
+<item>1F930,1F3FB;Smileys and People</item>
+<item>1F930,1F3FC;Smileys and People</item>
+<item>1F930,1F3FD;Smileys and People</item>
+<item>1F930,1F3FE;Smileys and People</item>
+<item>1F930,1F3FF;Smileys and People</item>
+<item>1F931;Smileys and People</item>
+<item>1F931,1F3FB;Smileys and People</item>
+<item>1F931,1F3FC;Smileys and People</item>
+<item>1F931,1F3FD;Smileys and People</item>
+<item>1F931,1F3FE;Smileys and People</item>
+<item>1F931,1F3FF;Smileys and People</item>
+<item>1F47C;Smileys and People</item>
+<item>1F47C,1F3FB;Smileys and People</item>
+<item>1F47C,1F3FC;Smileys and People</item>
+<item>1F47C,1F3FD;Smileys and People</item>
+<item>1F47C,1F3FE;Smileys and People</item>
+<item>1F47C,1F3FF;Smileys and People</item>
+<item>1F385;Smileys and People</item>
+<item>1F385,1F3FB;Smileys and People</item>
+<item>1F385,1F3FC;Smileys and People</item>
+<item>1F385,1F3FD;Smileys and People</item>
+<item>1F385,1F3FE;Smileys and People</item>
+<item>1F385,1F3FF;Smileys and People</item>
+<item>1F936;Smileys and People</item>
+<item>1F936,1F3FB;Smileys and People</item>
+<item>1F936,1F3FC;Smileys and People</item>
+<item>1F936,1F3FD;Smileys and People</item>
+<item>1F936,1F3FE;Smileys and People</item>
+<item>1F936,1F3FF;Smileys and People</item>
+<item>1F9D9;Smileys and People</item>
+<item>1F9D9,1F3FB;Smileys and People</item>
+<item>1F9D9,1F3FC;Smileys and People</item>
+<item>1F9D9,1F3FD;Smileys and People</item>
+<item>1F9D9,1F3FE;Smileys and People</item>
+<item>1F9D9,1F3FF;Smileys and People</item>
+<item>1F9D9,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D9,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D9,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D9,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D9,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D9,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D9,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D9,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D9,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D9,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D9,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D9,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DA;Smileys and People</item>
+<item>1F9DA,1F3FB;Smileys and People</item>
+<item>1F9DA,1F3FC;Smileys and People</item>
+<item>1F9DA,1F3FD;Smileys and People</item>
+<item>1F9DA,1F3FE;Smileys and People</item>
+<item>1F9DA,1F3FF;Smileys and People</item>
+<item>1F9DA,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DA,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DA,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DA,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DA,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DA,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DA,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DA,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DA,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DA,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DA,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DA,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DB;Smileys and People</item>
+<item>1F9DB,1F3FB;Smileys and People</item>
+<item>1F9DB,1F3FC;Smileys and People</item>
+<item>1F9DB,1F3FD;Smileys and People</item>
+<item>1F9DB,1F3FE;Smileys and People</item>
+<item>1F9DB,1F3FF;Smileys and People</item>
+<item>1F9DB,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DB,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DB,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DB,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DB,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DB,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DB,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DB,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DB,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DB,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DB,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DB,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DC;Smileys and People</item>
+<item>1F9DC,1F3FB;Smileys and People</item>
+<item>1F9DC,1F3FC;Smileys and People</item>
+<item>1F9DC,1F3FD;Smileys and People</item>
+<item>1F9DC,1F3FE;Smileys and People</item>
+<item>1F9DC,1F3FF;Smileys and People</item>
+<item>1F9DC,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DC,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DC,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DC,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DC,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DC,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DC,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DC,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DC,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DC,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DC,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DC,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DD;Smileys and People</item>
+<item>1F9DD,1F3FB;Smileys and People</item>
+<item>1F9DD,1F3FC;Smileys and People</item>
+<item>1F9DD,1F3FD;Smileys and People</item>
+<item>1F9DD,1F3FE;Smileys and People</item>
+<item>1F9DD,1F3FF;Smileys and People</item>
+<item>1F9DD,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DD,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DD,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DD,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DD,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DD,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DD,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DD,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DD,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DD,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DD,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DD,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DE;Smileys and People</item>
+<item>1F9DE,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DE,200D,2642,FE0F;Smileys and People</item>
+<item>1F9DF;Smileys and People</item>
+<item>1F9DF,200D,2640,FE0F;Smileys and People</item>
+<item>1F9DF,200D,2642,FE0F;Smileys and People</item>
+<item>1F64D;Smileys and People</item>
+<item>1F64D,1F3FB;Smileys and People</item>
+<item>1F64D,1F3FC;Smileys and People</item>
+<item>1F64D,1F3FD;Smileys and People</item>
+<item>1F64D,1F3FE;Smileys and People</item>
+<item>1F64D,1F3FF;Smileys and People</item>
+<item>1F64D,200D,2642,FE0F;Smileys and People</item>
+<item>1F64D,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F64D,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F64D,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F64D,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F64D,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F64D,200D,2640,FE0F;Smileys and People</item>
+<item>1F64D,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F64D,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F64D,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F64D,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F64D,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F64E;Smileys and People</item>
+<item>1F64E,1F3FB;Smileys and People</item>
+<item>1F64E,1F3FC;Smileys and People</item>
+<item>1F64E,1F3FD;Smileys and People</item>
+<item>1F64E,1F3FE;Smileys and People</item>
+<item>1F64E,1F3FF;Smileys and People</item>
+<item>1F64E,200D,2642,FE0F;Smileys and People</item>
+<item>1F64E,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F64E,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F64E,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F64E,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F64E,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F64E,200D,2640,FE0F;Smileys and People</item>
+<item>1F64E,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F64E,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F64E,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F64E,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F64E,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F645;Smileys and People</item>
+<item>1F645,1F3FB;Smileys and People</item>
+<item>1F645,1F3FC;Smileys and People</item>
+<item>1F645,1F3FD;Smileys and People</item>
+<item>1F645,1F3FE;Smileys and People</item>
+<item>1F645,1F3FF;Smileys and People</item>
+<item>1F645,200D,2642,FE0F;Smileys and People</item>
+<item>1F645,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F645,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F645,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F645,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F645,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F645,200D,2640,FE0F;Smileys and People</item>
+<item>1F645,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F645,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F645,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F645,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F645,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F646;Smileys and People</item>
+<item>1F646,1F3FB;Smileys and People</item>
+<item>1F646,1F3FC;Smileys and People</item>
+<item>1F646,1F3FD;Smileys and People</item>
+<item>1F646,1F3FE;Smileys and People</item>
+<item>1F646,1F3FF;Smileys and People</item>
+<item>1F646,200D,2642,FE0F;Smileys and People</item>
+<item>1F646,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F646,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F646,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F646,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F646,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F646,200D,2640,FE0F;Smileys and People</item>
+<item>1F646,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F646,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F646,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F646,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F646,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F481;Smileys and People</item>
+<item>1F481,1F3FB;Smileys and People</item>
+<item>1F481,1F3FC;Smileys and People</item>
+<item>1F481,1F3FD;Smileys and People</item>
+<item>1F481,1F3FE;Smileys and People</item>
+<item>1F481,1F3FF;Smileys and People</item>
+<item>1F481,200D,2642,FE0F;Smileys and People</item>
+<item>1F481,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F481,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F481,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F481,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F481,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F481,200D,2640,FE0F;Smileys and People</item>
+<item>1F481,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F481,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F481,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F481,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F481,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F64B;Smileys and People</item>
+<item>1F64B,1F3FB;Smileys and People</item>
+<item>1F64B,1F3FC;Smileys and People</item>
+<item>1F64B,1F3FD;Smileys and People</item>
+<item>1F64B,1F3FE;Smileys and People</item>
+<item>1F64B,1F3FF;Smileys and People</item>
+<item>1F64B,200D,2642,FE0F;Smileys and People</item>
+<item>1F64B,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F64B,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F64B,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F64B,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F64B,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F64B,200D,2640,FE0F;Smileys and People</item>
+<item>1F64B,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F64B,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F64B,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F64B,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F64B,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F647;Smileys and People</item>
+<item>1F647,1F3FB;Smileys and People</item>
+<item>1F647,1F3FC;Smileys and People</item>
+<item>1F647,1F3FD;Smileys and People</item>
+<item>1F647,1F3FE;Smileys and People</item>
+<item>1F647,1F3FF;Smileys and People</item>
+<item>1F647,200D,2642,FE0F;Smileys and People</item>
+<item>1F647,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F647,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F647,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F647,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F647,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F647,200D,2640,FE0F;Smileys and People</item>
+<item>1F647,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F647,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F647,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F647,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F647,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F926;Smileys and People</item>
+<item>1F926,1F3FB;Smileys and People</item>
+<item>1F926,1F3FC;Smileys and People</item>
+<item>1F926,1F3FD;Smileys and People</item>
+<item>1F926,1F3FE;Smileys and People</item>
+<item>1F926,1F3FF;Smileys and People</item>
+<item>1F926,200D,2642,FE0F;Smileys and People</item>
+<item>1F926,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F926,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F926,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F926,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F926,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F926,200D,2640,FE0F;Smileys and People</item>
+<item>1F926,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F926,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F926,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F926,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F926,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F937;Smileys and People</item>
+<item>1F937,1F3FB;Smileys and People</item>
+<item>1F937,1F3FC;Smileys and People</item>
+<item>1F937,1F3FD;Smileys and People</item>
+<item>1F937,1F3FE;Smileys and People</item>
+<item>1F937,1F3FF;Smileys and People</item>
+<item>1F937,200D,2642,FE0F;Smileys and People</item>
+<item>1F937,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F937,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F937,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F937,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F937,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F937,200D,2640,FE0F;Smileys and People</item>
+<item>1F937,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F937,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F937,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F937,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F937,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F486;Smileys and People</item>
+<item>1F486,1F3FB;Smileys and People</item>
+<item>1F486,1F3FC;Smileys and People</item>
+<item>1F486,1F3FD;Smileys and People</item>
+<item>1F486,1F3FE;Smileys and People</item>
+<item>1F486,1F3FF;Smileys and People</item>
+<item>1F486,200D,2642,FE0F;Smileys and People</item>
+<item>1F486,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F486,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F486,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F486,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F486,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F486,200D,2640,FE0F;Smileys and People</item>
+<item>1F486,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F486,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F486,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F486,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F486,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F487;Smileys and People</item>
+<item>1F487,1F3FB;Smileys and People</item>
+<item>1F487,1F3FC;Smileys and People</item>
+<item>1F487,1F3FD;Smileys and People</item>
+<item>1F487,1F3FE;Smileys and People</item>
+<item>1F487,1F3FF;Smileys and People</item>
+<item>1F487,200D,2642,FE0F;Smileys and People</item>
+<item>1F487,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F487,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F487,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F487,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F487,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F487,200D,2640,FE0F;Smileys and People</item>
+<item>1F487,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F487,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F487,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F487,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F487,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B6;Smileys and People</item>
+<item>1F6B6,1F3FB;Smileys and People</item>
+<item>1F6B6,1F3FC;Smileys and People</item>
+<item>1F6B6,1F3FD;Smileys and People</item>
+<item>1F6B6,1F3FE;Smileys and People</item>
+<item>1F6B6,1F3FF;Smileys and People</item>
+<item>1F6B6,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B6,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B6,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B6,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B6,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B6,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B6,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B6,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B6,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B6,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B6,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B6,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F3C3;Smileys and People</item>
+<item>1F3C3,1F3FB;Smileys and People</item>
+<item>1F3C3,1F3FC;Smileys and People</item>
+<item>1F3C3,1F3FD;Smileys and People</item>
+<item>1F3C3,1F3FE;Smileys and People</item>
+<item>1F3C3,1F3FF;Smileys and People</item>
+<item>1F3C3,200D,2642,FE0F;Smileys and People</item>
+<item>1F3C3,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F3C3,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F3C3,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F3C3,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F3C3,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F3C3,200D,2640,FE0F;Smileys and People</item>
+<item>1F3C3,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F3C3,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F3C3,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F3C3,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F3C3,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F483;Smileys and People</item>
+<item>1F483,1F3FB;Smileys and People</item>
+<item>1F483,1F3FC;Smileys and People</item>
+<item>1F483,1F3FD;Smileys and People</item>
+<item>1F483,1F3FE;Smileys and People</item>
+<item>1F483,1F3FF;Smileys and People</item>
+<item>1F57A;Smileys and People</item>
+<item>1F57A,1F3FB;Smileys and People</item>
+<item>1F57A,1F3FC;Smileys and People</item>
+<item>1F57A,1F3FD;Smileys and People</item>
+<item>1F57A,1F3FE;Smileys and People</item>
+<item>1F57A,1F3FF;Smileys and People</item>
+<item>1F46F;Smileys and People</item>
+<item>1F46F,200D,2642,FE0F;Smileys and People</item>
+<item>1F46F,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D6;Smileys and People</item>
+<item>1F9D6,1F3FB;Smileys and People</item>
+<item>1F9D6,1F3FC;Smileys and People</item>
+<item>1F9D6,1F3FD;Smileys and People</item>
+<item>1F9D6,1F3FE;Smileys and People</item>
+<item>1F9D6,1F3FF;Smileys and People</item>
+<item>1F9D6,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D6,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D6,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D6,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D6,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D6,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D6,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D6,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D6,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D6,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D6,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D6,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D7;Smileys and People</item>
+<item>1F9D7,1F3FB;Smileys and People</item>
+<item>1F9D7,1F3FC;Smileys and People</item>
+<item>1F9D7,1F3FD;Smileys and People</item>
+<item>1F9D7,1F3FE;Smileys and People</item>
+<item>1F9D7,1F3FF;Smileys and People</item>
+<item>1F9D7,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D7,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D7,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D7,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D7,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D7,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D7,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D7,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D7,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D7,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D7,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D7,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D8;Smileys and People</item>
+<item>1F9D8,1F3FB;Smileys and People</item>
+<item>1F9D8,1F3FC;Smileys and People</item>
+<item>1F9D8,1F3FD;Smileys and People</item>
+<item>1F9D8,1F3FE;Smileys and People</item>
+<item>1F9D8,1F3FF;Smileys and People</item>
+<item>1F9D8,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D8,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D8,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D8,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D8,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D8,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F9D8,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D8,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D8,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D8,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D8,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F9D8,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F6C0;Smileys and People</item>
+<item>1F6C0,1F3FB;Smileys and People</item>
+<item>1F6C0,1F3FC;Smileys and People</item>
+<item>1F6C0,1F3FD;Smileys and People</item>
+<item>1F6C0,1F3FE;Smileys and People</item>
+<item>1F6C0,1F3FF;Smileys and People</item>
+<item>1F6CC;Smileys and People</item>
+<item>1F6CC,1F3FB;Smileys and People</item>
+<item>1F6CC,1F3FC;Smileys and People</item>
+<item>1F6CC,1F3FD;Smileys and People</item>
+<item>1F6CC,1F3FE;Smileys and People</item>
+<item>1F6CC,1F3FF;Smileys and People</item>
+<item>1F574,FE0F;Smileys and People</item>
+<item>1F574,1F3FB;Smileys and People</item>
+<item>1F574,1F3FC;Smileys and People</item>
+<item>1F574,1F3FD;Smileys and People</item>
+<item>1F574,1F3FE;Smileys and People</item>
+<item>1F574,1F3FF;Smileys and People</item>
+<item>1F5E3,FE0F;Smileys and People</item>
+<item>1F464;Smileys and People</item>
+<item>1F465;Smileys and People</item>
+<item>1F93A;Smileys and People</item>
+<item>1F3C7;Smileys and People</item>
+<item>1F3C7,1F3FB;Smileys and People</item>
+<item>1F3C7,1F3FC;Smileys and People</item>
+<item>1F3C7,1F3FD;Smileys and People</item>
+<item>1F3C7,1F3FE;Smileys and People</item>
+<item>1F3C7,1F3FF;Smileys and People</item>
+<item>26F7,FE0F;Smileys and People</item>
+<item>1F3C2;Smileys and People</item>
+<item>1F3C2,1F3FB;Smileys and People</item>
+<item>1F3C2,1F3FC;Smileys and People</item>
+<item>1F3C2,1F3FD;Smileys and People</item>
+<item>1F3C2,1F3FE;Smileys and People</item>
+<item>1F3C2,1F3FF;Smileys and People</item>
+<item>1F3CC,FE0F;Smileys and People</item>
+<item>1F3CC,1F3FB;Smileys and People</item>
+<item>1F3CC,1F3FC;Smileys and People</item>
+<item>1F3CC,1F3FD;Smileys and People</item>
+<item>1F3CC,1F3FE;Smileys and People</item>
+<item>1F3CC,1F3FF;Smileys and People</item>
+<item>1F3CC,FE0F,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CC,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CC,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CC,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CC,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CC,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CC,FE0F,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CC,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CC,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CC,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CC,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CC,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F3C4;Smileys and People</item>
+<item>1F3C4,1F3FB;Smileys and People</item>
+<item>1F3C4,1F3FC;Smileys and People</item>
+<item>1F3C4,1F3FD;Smileys and People</item>
+<item>1F3C4,1F3FE;Smileys and People</item>
+<item>1F3C4,1F3FF;Smileys and People</item>
+<item>1F3C4,200D,2642,FE0F;Smileys and People</item>
+<item>1F3C4,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F3C4,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F3C4,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F3C4,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F3C4,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F3C4,200D,2640,FE0F;Smileys and People</item>
+<item>1F3C4,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F3C4,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F3C4,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F3C4,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F3C4,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F6A3;Smileys and People</item>
+<item>1F6A3,1F3FB;Smileys and People</item>
+<item>1F6A3,1F3FC;Smileys and People</item>
+<item>1F6A3,1F3FD;Smileys and People</item>
+<item>1F6A3,1F3FE;Smileys and People</item>
+<item>1F6A3,1F3FF;Smileys and People</item>
+<item>1F6A3,200D,2642,FE0F;Smileys and People</item>
+<item>1F6A3,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F6A3,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F6A3,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F6A3,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F6A3,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F6A3,200D,2640,FE0F;Smileys and People</item>
+<item>1F6A3,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F6A3,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F6A3,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F6A3,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F6A3,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CA;Smileys and People</item>
+<item>1F3CA,1F3FB;Smileys and People</item>
+<item>1F3CA,1F3FC;Smileys and People</item>
+<item>1F3CA,1F3FD;Smileys and People</item>
+<item>1F3CA,1F3FE;Smileys and People</item>
+<item>1F3CA,1F3FF;Smileys and People</item>
+<item>1F3CA,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CA,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CA,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CA,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CA,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CA,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CA,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CA,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CA,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CA,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CA,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CA,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>26F9,FE0F;Smileys and People</item>
+<item>26F9,1F3FB;Smileys and People</item>
+<item>26F9,1F3FC;Smileys and People</item>
+<item>26F9,1F3FD;Smileys and People</item>
+<item>26F9,1F3FE;Smileys and People</item>
+<item>26F9,1F3FF;Smileys and People</item>
+<item>26F9,FE0F,200D,2642,FE0F;Smileys and People</item>
+<item>26F9,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>26F9,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>26F9,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>26F9,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>26F9,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>26F9,FE0F,200D,2640,FE0F;Smileys and People</item>
+<item>26F9,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>26F9,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>26F9,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>26F9,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>26F9,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CB,FE0F;Smileys and People</item>
+<item>1F3CB,1F3FB;Smileys and People</item>
+<item>1F3CB,1F3FC;Smileys and People</item>
+<item>1F3CB,1F3FD;Smileys and People</item>
+<item>1F3CB,1F3FE;Smileys and People</item>
+<item>1F3CB,1F3FF;Smileys and People</item>
+<item>1F3CB,FE0F,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CB,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CB,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CB,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CB,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CB,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F3CB,FE0F,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CB,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CB,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CB,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CB,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CB,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B4;Smileys and People</item>
+<item>1F6B4,1F3FB;Smileys and People</item>
+<item>1F6B4,1F3FC;Smileys and People</item>
+<item>1F6B4,1F3FD;Smileys and People</item>
+<item>1F6B4,1F3FE;Smileys and People</item>
+<item>1F6B4,1F3FF;Smileys and People</item>
+<item>1F6B4,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B4,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B4,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B4,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B4,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B4,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B4,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B4,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B4,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B4,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B4,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B4,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B5;Smileys and People</item>
+<item>1F6B5,1F3FB;Smileys and People</item>
+<item>1F6B5,1F3FC;Smileys and People</item>
+<item>1F6B5,1F3FD;Smileys and People</item>
+<item>1F6B5,1F3FE;Smileys and People</item>
+<item>1F6B5,1F3FF;Smileys and People</item>
+<item>1F6B5,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B5,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B5,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B5,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B5,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B5,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F6B5,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B5,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B5,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B5,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B5,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F6B5,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F3CE,FE0F;Smileys and People</item>
+<item>1F3CD,FE0F;Smileys and People</item>
+<item>1F938;Smileys and People</item>
+<item>1F938,1F3FB;Smileys and People</item>
+<item>1F938,1F3FC;Smileys and People</item>
+<item>1F938,1F3FD;Smileys and People</item>
+<item>1F938,1F3FE;Smileys and People</item>
+<item>1F938,1F3FF;Smileys and People</item>
+<item>1F938,200D,2642,FE0F;Smileys and People</item>
+<item>1F938,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F938,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F938,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F938,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F938,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F938,200D,2640,FE0F;Smileys and People</item>
+<item>1F938,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F938,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F938,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F938,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F938,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F93C;Smileys and People</item>
+<item>1F93C,200D,2642,FE0F;Smileys and People</item>
+<item>1F93C,200D,2640,FE0F;Smileys and People</item>
+<item>1F93D;Smileys and People</item>
+<item>1F93D,1F3FB;Smileys and People</item>
+<item>1F93D,1F3FC;Smileys and People</item>
+<item>1F93D,1F3FD;Smileys and People</item>
+<item>1F93D,1F3FE;Smileys and People</item>
+<item>1F93D,1F3FF;Smileys and People</item>
+<item>1F93D,200D,2642,FE0F;Smileys and People</item>
+<item>1F93D,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F93D,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F93D,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F93D,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F93D,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F93D,200D,2640,FE0F;Smileys and People</item>
+<item>1F93D,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F93D,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F93D,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F93D,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F93D,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F93E;Smileys and People</item>
+<item>1F93E,1F3FB;Smileys and People</item>
+<item>1F93E,1F3FC;Smileys and People</item>
+<item>1F93E,1F3FD;Smileys and People</item>
+<item>1F93E,1F3FE;Smileys and People</item>
+<item>1F93E,1F3FF;Smileys and People</item>
+<item>1F93E,200D,2642,FE0F;Smileys and People</item>
+<item>1F93E,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F93E,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F93E,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F93E,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F93E,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F93E,200D,2640,FE0F;Smileys and People</item>
+<item>1F93E,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F93E,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F93E,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F93E,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F93E,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F939;Smileys and People</item>
+<item>1F939,1F3FB;Smileys and People</item>
+<item>1F939,1F3FC;Smileys and People</item>
+<item>1F939,1F3FD;Smileys and People</item>
+<item>1F939,1F3FE;Smileys and People</item>
+<item>1F939,1F3FF;Smileys and People</item>
+<item>1F939,200D,2642,FE0F;Smileys and People</item>
+<item>1F939,1F3FB,200D,2642,FE0F;Smileys and People</item>
+<item>1F939,1F3FC,200D,2642,FE0F;Smileys and People</item>
+<item>1F939,1F3FD,200D,2642,FE0F;Smileys and People</item>
+<item>1F939,1F3FE,200D,2642,FE0F;Smileys and People</item>
+<item>1F939,1F3FF,200D,2642,FE0F;Smileys and People</item>
+<item>1F939,200D,2640,FE0F;Smileys and People</item>
+<item>1F939,1F3FB,200D,2640,FE0F;Smileys and People</item>
+<item>1F939,1F3FC,200D,2640,FE0F;Smileys and People</item>
+<item>1F939,1F3FD,200D,2640,FE0F;Smileys and People</item>
+<item>1F939,1F3FE,200D,2640,FE0F;Smileys and People</item>
+<item>1F939,1F3FF,200D,2640,FE0F;Smileys and People</item>
+<item>1F46B;Smileys and People</item>
+<item>1F46C;Smileys and People</item>
+<item>1F46D;Smileys and People</item>
+<item>1F48F;Smileys and People</item>
+<item>1F469,200D,2764,FE0F,200D,1F48B,200D,1F468;Smileys and People</item>
+<item>1F468,200D,2764,FE0F,200D,1F48B,200D,1F468;Smileys and People</item>
+<item>1F469,200D,2764,FE0F,200D,1F48B,200D,1F469;Smileys and People</item>
+<item>1F491;Smileys and People</item>
+<item>1F469,200D,2764,FE0F,200D,1F468;Smileys and People</item>
+<item>1F468,200D,2764,FE0F,200D,1F468;Smileys and People</item>
+<item>1F469,200D,2764,FE0F,200D,1F469;Smileys and People</item>
+<item>1F46A;Smileys and People</item>
+<item>1F468,200D,1F469,200D,1F466;Smileys and People</item>
+<item>1F468,200D,1F469,200D,1F467;Smileys and People</item>
+<item>1F468,200D,1F469,200D,1F467,200D,1F466;Smileys and People</item>
+<item>1F468,200D,1F469,200D,1F466,200D,1F466;Smileys and People</item>
+<item>1F468,200D,1F469,200D,1F467,200D,1F467;Smileys and People</item>
+<item>1F468,200D,1F468,200D,1F466;Smileys and People</item>
+<item>1F468,200D,1F468,200D,1F467;Smileys and People</item>
+<item>1F468,200D,1F468,200D,1F467,200D,1F466;Smileys and People</item>
+<item>1F468,200D,1F468,200D,1F466,200D,1F466;Smileys and People</item>
+<item>1F468,200D,1F468,200D,1F467,200D,1F467;Smileys and People</item>
+<item>1F469,200D,1F469,200D,1F466;Smileys and People</item>
+<item>1F469,200D,1F469,200D,1F467;Smileys and People</item>
+<item>1F469,200D,1F469,200D,1F467,200D,1F466;Smileys and People</item>
+<item>1F469,200D,1F469,200D,1F466,200D,1F466;Smileys and People</item>
+<item>1F469,200D,1F469,200D,1F467,200D,1F467;Smileys and People</item>
+<item>1F468,200D,1F466;Smileys and People</item>
+<item>1F468,200D,1F466,200D,1F466;Smileys and People</item>
+<item>1F468,200D,1F467;Smileys and People</item>
+<item>1F468,200D,1F467,200D,1F466;Smileys and People</item>
+<item>1F468,200D,1F467,200D,1F467;Smileys and People</item>
+<item>1F469,200D,1F466;Smileys and People</item>
+<item>1F469,200D,1F466,200D,1F466;Smileys and People</item>
+<item>1F469,200D,1F467;Smileys and People</item>
+<item>1F469,200D,1F467,200D,1F466;Smileys and People</item>
+<item>1F469,200D,1F467,200D,1F467;Smileys and People</item>
+<item>1F933;Smileys and People</item>
+<item>1F933,1F3FB;Smileys and People</item>
+<item>1F933,1F3FC;Smileys and People</item>
+<item>1F933,1F3FD;Smileys and People</item>
+<item>1F933,1F3FE;Smileys and People</item>
+<item>1F933,1F3FF;Smileys and People</item>
+<item>1F4AA;Smileys and People</item>
+<item>1F4AA,1F3FB;Smileys and People</item>
+<item>1F4AA,1F3FC;Smileys and People</item>
+<item>1F4AA,1F3FD;Smileys and People</item>
+<item>1F4AA,1F3FE;Smileys and People</item>
+<item>1F4AA,1F3FF;Smileys and People</item>
+<item>1F448;Smileys and People</item>
+<item>1F448,1F3FB;Smileys and People</item>
+<item>1F448,1F3FC;Smileys and People</item>
+<item>1F448,1F3FD;Smileys and People</item>
+<item>1F448,1F3FE;Smileys and People</item>
+<item>1F448,1F3FF;Smileys and People</item>
+<item>1F449;Smileys and People</item>
+<item>1F449,1F3FB;Smileys and People</item>
+<item>1F449,1F3FC;Smileys and People</item>
+<item>1F449,1F3FD;Smileys and People</item>
+<item>1F449,1F3FE;Smileys and People</item>
+<item>1F449,1F3FF;Smileys and People</item>
+<item>261D,FE0F;Smileys and People</item>
+<item>261D,1F3FB;Smileys and People</item>
+<item>261D,1F3FC;Smileys and People</item>
+<item>261D,1F3FD;Smileys and People</item>
+<item>261D,1F3FE;Smileys and People</item>
+<item>261D,1F3FF;Smileys and People</item>
+<item>1F446;Smileys and People</item>
+<item>1F446,1F3FB;Smileys and People</item>
+<item>1F446,1F3FC;Smileys and People</item>
+<item>1F446,1F3FD;Smileys and People</item>
+<item>1F446,1F3FE;Smileys and People</item>
+<item>1F446,1F3FF;Smileys and People</item>
+<item>1F595;Smileys and People</item>
+<item>1F595,1F3FB;Smileys and People</item>
+<item>1F595,1F3FC;Smileys and People</item>
+<item>1F595,1F3FD;Smileys and People</item>
+<item>1F595,1F3FE;Smileys and People</item>
+<item>1F595,1F3FF;Smileys and People</item>
+<item>1F447;Smileys and People</item>
+<item>1F447,1F3FB;Smileys and People</item>
+<item>1F447,1F3FC;Smileys and People</item>
+<item>1F447,1F3FD;Smileys and People</item>
+<item>1F447,1F3FE;Smileys and People</item>
+<item>1F447,1F3FF;Smileys and People</item>
+<item>270C,FE0F;Smileys and People</item>
+<item>270C,1F3FB;Smileys and People</item>
+<item>270C,1F3FC;Smileys and People</item>
+<item>270C,1F3FD;Smileys and People</item>
+<item>270C,1F3FE;Smileys and People</item>
+<item>270C,1F3FF;Smileys and People</item>
+<item>1F91E;Smileys and People</item>
+<item>1F91E,1F3FB;Smileys and People</item>
+<item>1F91E,1F3FC;Smileys and People</item>
+<item>1F91E,1F3FD;Smileys and People</item>
+<item>1F91E,1F3FE;Smileys and People</item>
+<item>1F91E,1F3FF;Smileys and People</item>
+<item>1F596;Smileys and People</item>
+<item>1F596,1F3FB;Smileys and People</item>
+<item>1F596,1F3FC;Smileys and People</item>
+<item>1F596,1F3FD;Smileys and People</item>
+<item>1F596,1F3FE;Smileys and People</item>
+<item>1F596,1F3FF;Smileys and People</item>
+<item>1F918;Smileys and People</item>
+<item>1F918,1F3FB;Smileys and People</item>
+<item>1F918,1F3FC;Smileys and People</item>
+<item>1F918,1F3FD;Smileys and People</item>
+<item>1F918,1F3FE;Smileys and People</item>
+<item>1F918,1F3FF;Smileys and People</item>
+<item>1F919;Smileys and People</item>
+<item>1F919,1F3FB;Smileys and People</item>
+<item>1F919,1F3FC;Smileys and People</item>
+<item>1F919,1F3FD;Smileys and People</item>
+<item>1F919,1F3FE;Smileys and People</item>
+<item>1F919,1F3FF;Smileys and People</item>
+<item>1F590,FE0F;Smileys and People</item>
+<item>1F590,1F3FB;Smileys and People</item>
+<item>1F590,1F3FC;Smileys and People</item>
+<item>1F590,1F3FD;Smileys and People</item>
+<item>1F590,1F3FE;Smileys and People</item>
+<item>1F590,1F3FF;Smileys and People</item>
+<item>270B;Smileys and People</item>
+<item>270B,1F3FB;Smileys and People</item>
+<item>270B,1F3FC;Smileys and People</item>
+<item>270B,1F3FD;Smileys and People</item>
+<item>270B,1F3FE;Smileys and People</item>
+<item>270B,1F3FF;Smileys and People</item>
+<item>1F44C;Smileys and People</item>
+<item>1F44C,1F3FB;Smileys and People</item>
+<item>1F44C,1F3FC;Smileys and People</item>
+<item>1F44C,1F3FD;Smileys and People</item>
+<item>1F44C,1F3FE;Smileys and People</item>
+<item>1F44C,1F3FF;Smileys and People</item>
+<item>1F44D;Smileys and People</item>
+<item>1F44D,1F3FB;Smileys and People</item>
+<item>1F44D,1F3FC;Smileys and People</item>
+<item>1F44D,1F3FD;Smileys and People</item>
+<item>1F44D,1F3FE;Smileys and People</item>
+<item>1F44D,1F3FF;Smileys and People</item>
+<item>1F44E;Smileys and People</item>
+<item>1F44E,1F3FB;Smileys and People</item>
+<item>1F44E,1F3FC;Smileys and People</item>
+<item>1F44E,1F3FD;Smileys and People</item>
+<item>1F44E,1F3FE;Smileys and People</item>
+<item>1F44E,1F3FF;Smileys and People</item>
+<item>270A;Smileys and People</item>
+<item>270A,1F3FB;Smileys and People</item>
+<item>270A,1F3FC;Smileys and People</item>
+<item>270A,1F3FD;Smileys and People</item>
+<item>270A,1F3FE;Smileys and People</item>
+<item>270A,1F3FF;Smileys and People</item>
+<item>1F44A;Smileys and People</item>
+<item>1F44A,1F3FB;Smileys and People</item>
+<item>1F44A,1F3FC;Smileys and People</item>
+<item>1F44A,1F3FD;Smileys and People</item>
+<item>1F44A,1F3FE;Smileys and People</item>
+<item>1F44A,1F3FF;Smileys and People</item>
+<item>1F91B;Smileys and People</item>
+<item>1F91B,1F3FB;Smileys and People</item>
+<item>1F91B,1F3FC;Smileys and People</item>
+<item>1F91B,1F3FD;Smileys and People</item>
+<item>1F91B,1F3FE;Smileys and People</item>
+<item>1F91B,1F3FF;Smileys and People</item>
+<item>1F91C;Smileys and People</item>
+<item>1F91C,1F3FB;Smileys and People</item>
+<item>1F91C,1F3FC;Smileys and People</item>
+<item>1F91C,1F3FD;Smileys and People</item>
+<item>1F91C,1F3FE;Smileys and People</item>
+<item>1F91C,1F3FF;Smileys and People</item>
+<item>1F91A;Smileys and People</item>
+<item>1F91A,1F3FB;Smileys and People</item>
+<item>1F91A,1F3FC;Smileys and People</item>
+<item>1F91A,1F3FD;Smileys and People</item>
+<item>1F91A,1F3FE;Smileys and People</item>
+<item>1F91A,1F3FF;Smileys and People</item>
+<item>1F44B;Smileys and People</item>
+<item>1F44B,1F3FB;Smileys and People</item>
+<item>1F44B,1F3FC;Smileys and People</item>
+<item>1F44B,1F3FD;Smileys and People</item>
+<item>1F44B,1F3FE;Smileys and People</item>
+<item>1F44B,1F3FF;Smileys and People</item>
+<item>1F91F;Smileys and People</item>
+<item>1F91F,1F3FB;Smileys and People</item>
+<item>1F91F,1F3FC;Smileys and People</item>
+<item>1F91F,1F3FD;Smileys and People</item>
+<item>1F91F,1F3FE;Smileys and People</item>
+<item>1F91F,1F3FF;Smileys and People</item>
+<item>270D,FE0F;Smileys and People</item>
+<item>270D,1F3FB;Smileys and People</item>
+<item>270D,1F3FC;Smileys and People</item>
+<item>270D,1F3FD;Smileys and People</item>
+<item>270D,1F3FE;Smileys and People</item>
+<item>270D,1F3FF;Smileys and People</item>
+<item>1F44F;Smileys and People</item>
+<item>1F44F,1F3FB;Smileys and People</item>
+<item>1F44F,1F3FC;Smileys and People</item>
+<item>1F44F,1F3FD;Smileys and People</item>
+<item>1F44F,1F3FE;Smileys and People</item>
+<item>1F44F,1F3FF;Smileys and People</item>
+<item>1F450;Smileys and People</item>
+<item>1F450,1F3FB;Smileys and People</item>
+<item>1F450,1F3FC;Smileys and People</item>
+<item>1F450,1F3FD;Smileys and People</item>
+<item>1F450,1F3FE;Smileys and People</item>
+<item>1F450,1F3FF;Smileys and People</item>
+<item>1F64C;Smileys and People</item>
+<item>1F64C,1F3FB;Smileys and People</item>
+<item>1F64C,1F3FC;Smileys and People</item>
+<item>1F64C,1F3FD;Smileys and People</item>
+<item>1F64C,1F3FE;Smileys and People</item>
+<item>1F64C,1F3FF;Smileys and People</item>
+<item>1F932;Smileys and People</item>
+<item>1F932,1F3FB;Smileys and People</item>
+<item>1F932,1F3FC;Smileys and People</item>
+<item>1F932,1F3FD;Smileys and People</item>
+<item>1F932,1F3FE;Smileys and People</item>
+<item>1F932,1F3FF;Smileys and People</item>
+<item>1F64F;Smileys and People</item>
+<item>1F64F,1F3FB;Smileys and People</item>
+<item>1F64F,1F3FC;Smileys and People</item>
+<item>1F64F,1F3FD;Smileys and People</item>
+<item>1F64F,1F3FE;Smileys and People</item>
+<item>1F64F,1F3FF;Smileys and People</item>
+<item>1F91D;Smileys and People</item>
+<item>1F485;Smileys and People</item>
+<item>1F485,1F3FB;Smileys and People</item>
+<item>1F485,1F3FC;Smileys and People</item>
+<item>1F485,1F3FD;Smileys and People</item>
+<item>1F485,1F3FE;Smileys and People</item>
+<item>1F485,1F3FF;Smileys and People</item>
+<item>1F442;Smileys and People</item>
+<item>1F442,1F3FB;Smileys and People</item>
+<item>1F442,1F3FC;Smileys and People</item>
+<item>1F442,1F3FD;Smileys and People</item>
+<item>1F442,1F3FE;Smileys and People</item>
+<item>1F442,1F3FF;Smileys and People</item>
+<item>1F443;Smileys and People</item>
+<item>1F443,1F3FB;Smileys and People</item>
+<item>1F443,1F3FC;Smileys and People</item>
+<item>1F443,1F3FD;Smileys and People</item>
+<item>1F443,1F3FE;Smileys and People</item>
+<item>1F443,1F3FF;Smileys and People</item>
+<item>1F463;Smileys and People</item>
+<item>1F440;Smileys and People</item>
+<item>1F441,FE0F;Smileys and People</item>
+<item>1F441,FE0F,200D,1F5E8,FE0F;Smileys and People</item>
+<item>1F9E0;Smileys and People</item>
+<item>1F445;Smileys and People</item>
+<item>1F444;Smileys and People</item>
+<item>1F48B;Smileys and People</item>
+<item>1F498;Smileys and People</item>
+<item>2764,FE0F;Smileys and People</item>
+<item>1F493;Smileys and People</item>
+<item>1F494;Smileys and People</item>
+<item>1F495;Smileys and People</item>
+<item>1F496;Smileys and People</item>
+<item>1F497;Smileys and People</item>
+<item>1F499;Smileys and People</item>
+<item>1F49A;Smileys and People</item>
+<item>1F49B;Smileys and People</item>
+<item>1F9E1;Smileys and People</item>
+<item>1F49C;Smileys and People</item>
+<item>1F5A4;Smileys and People</item>
+<item>1F49D;Smileys and People</item>
+<item>1F49E;Smileys and People</item>
+<item>1F49F;Smileys and People</item>
+<item>2763,FE0F;Smileys and People</item>
+<item>1F48C;Smileys and People</item>
+<item>1F4A4;Smileys and People</item>
+<item>1F4A2;Smileys and People</item>
+<item>1F4A3;Smileys and People</item>
+<item>1F4A5;Smileys and People</item>
+<item>1F4A6;Smileys and People</item>
+<item>1F4A8;Smileys and People</item>
+<item>1F4AB;Smileys and People</item>
+<item>1F4AC;Smileys and People</item>
+<item>1F5E8,FE0F;Smileys and People</item>
+<item>1F5EF,FE0F;Smileys and People</item>
+<item>1F4AD;Smileys and People</item>
+<item>1F573,FE0F;Smileys and People</item>
+<item>1F453;Smileys and People</item>
+<item>1F576,FE0F;Smileys and People</item>
+<item>1F454;Smileys and People</item>
+<item>1F455;Smileys and People</item>
+<item>1F456;Smileys and People</item>
+<item>1F9E3;Smileys and People</item>
+<item>1F9E4;Smileys and People</item>
+<item>1F9E5;Smileys and People</item>
+<item>1F9E6;Smileys and People</item>
+<item>1F457;Smileys and People</item>
+<item>1F458;Smileys and People</item>
+<item>1F459;Smileys and People</item>
+<item>1F45A;Smileys and People</item>
+<item>1F45B;Smileys and People</item>
+<item>1F45C;Smileys and People</item>
+<item>1F45D;Smileys and People</item>
+<item>1F6CD,FE0F;Smileys and People</item>
+<item>1F392;Smileys and People</item>
+<item>1F45E;Smileys and People</item>
+<item>1F45F;Smileys and People</item>
+<item>1F460;Smileys and People</item>
+<item>1F461;Smileys and People</item>
+<item>1F462;Smileys and People</item>
+<item>1F451;Smileys and People</item>
+<item>1F452;Smileys and People</item>
+<item>1F3A9;Smileys and People</item>
+<item>1F393;Smileys and People</item>
+<item>1F9E2;Smileys and People</item>
+<item>26D1,FE0F;Smileys and People</item>
+<item>1F4FF;Smileys and People</item>
+<item>1F484;Smileys and People</item>
+<item>1F48D;Smileys and People</item>
+<item>1F48E;Smileys and People</item>
+<item>1F435;Animals and Nature</item>
+<item>1F412;Animals and Nature</item>
+<item>1F98D;Animals and Nature</item>
+<item>1F436;Animals and Nature</item>
+<item>1F415;Animals and Nature</item>
+<item>1F429;Animals and Nature</item>
+<item>1F43A;Animals and Nature</item>
+<item>1F98A;Animals and Nature</item>
+<item>1F431;Animals and Nature</item>
+<item>1F408;Animals and Nature</item>
+<item>1F981;Animals and Nature</item>
+<item>1F42F;Animals and Nature</item>
+<item>1F405;Animals and Nature</item>
+<item>1F406;Animals and Nature</item>
+<item>1F434;Animals and Nature</item>
+<item>1F40E;Animals and Nature</item>
+<item>1F984;Animals and Nature</item>
+<item>1F993;Animals and Nature</item>
+<item>1F98C;Animals and Nature</item>
+<item>1F42E;Animals and Nature</item>
+<item>1F402;Animals and Nature</item>
+<item>1F403;Animals and Nature</item>
+<item>1F404;Animals and Nature</item>
+<item>1F437;Animals and Nature</item>
+<item>1F416;Animals and Nature</item>
+<item>1F417;Animals and Nature</item>
+<item>1F43D;Animals and Nature</item>
+<item>1F40F;Animals and Nature</item>
+<item>1F411;Animals and Nature</item>
+<item>1F410;Animals and Nature</item>
+<item>1F42A;Animals and Nature</item>
+<item>1F42B;Animals and Nature</item>
+<item>1F992;Animals and Nature</item>
+<item>1F418;Animals and Nature</item>
+<item>1F98F;Animals and Nature</item>
+<item>1F42D;Animals and Nature</item>
+<item>1F401;Animals and Nature</item>
+<item>1F400;Animals and Nature</item>
+<item>1F439;Animals and Nature</item>
+<item>1F430;Animals and Nature</item>
+<item>1F407;Animals and Nature</item>
+<item>1F43F,FE0F;Animals and Nature</item>
+<item>1F994;Animals and Nature</item>
+<item>1F987;Animals and Nature</item>
+<item>1F43B;Animals and Nature</item>
+<item>1F428;Animals and Nature</item>
+<item>1F43C;Animals and Nature</item>
+<item>1F43E;Animals and Nature</item>
+<item>1F983;Animals and Nature</item>
+<item>1F414;Animals and Nature</item>
+<item>1F413;Animals and Nature</item>
+<item>1F423;Animals and Nature</item>
+<item>1F424;Animals and Nature</item>
+<item>1F425;Animals and Nature</item>
+<item>1F426;Animals and Nature</item>
+<item>1F427;Animals and Nature</item>
+<item>1F54A,FE0F;Animals and Nature</item>
+<item>1F985;Animals and Nature</item>
+<item>1F986;Animals and Nature</item>
+<item>1F989;Animals and Nature</item>
+<item>1F438;Animals and Nature</item>
+<item>1F40A;Animals and Nature</item>
+<item>1F422;Animals and Nature</item>
+<item>1F98E;Animals and Nature</item>
+<item>1F40D;Animals and Nature</item>
+<item>1F432;Animals and Nature</item>
+<item>1F409;Animals and Nature</item>
+<item>1F995;Animals and Nature</item>
+<item>1F996;Animals and Nature</item>
+<item>1F433;Animals and Nature</item>
+<item>1F40B;Animals and Nature</item>
+<item>1F42C;Animals and Nature</item>
+<item>1F41F;Animals and Nature</item>
+<item>1F420;Animals and Nature</item>
+<item>1F421;Animals and Nature</item>
+<item>1F988;Animals and Nature</item>
+<item>1F419;Animals and Nature</item>
+<item>1F41A;Animals and Nature</item>
+<item>1F980;Animals and Nature</item>
+<item>1F990;Animals and Nature</item>
+<item>1F991;Animals and Nature</item>
+<item>1F40C;Animals and Nature</item>
+<item>1F98B;Animals and Nature</item>
+<item>1F41B;Animals and Nature</item>
+<item>1F41C;Animals and Nature</item>
+<item>1F41D;Animals and Nature</item>
+<item>1F41E;Animals and Nature</item>
+<item>1F997;Animals and Nature</item>
+<item>1F577,FE0F;Animals and Nature</item>
+<item>1F578,FE0F;Animals and Nature</item>
+<item>1F982;Animals and Nature</item>
+<item>1F490;Animals and Nature</item>
+<item>1F338;Animals and Nature</item>
+<item>1F4AE;Animals and Nature</item>
+<item>1F3F5,FE0F;Animals and Nature</item>
+<item>1F339;Animals and Nature</item>
+<item>1F940;Animals and Nature</item>
+<item>1F33A;Animals and Nature</item>
+<item>1F33B;Animals and Nature</item>
+<item>1F33C;Animals and Nature</item>
+<item>1F337;Animals and Nature</item>
+<item>1F331;Animals and Nature</item>
+<item>1F332;Animals and Nature</item>
+<item>1F333;Animals and Nature</item>
+<item>1F334;Animals and Nature</item>
+<item>1F335;Animals and Nature</item>
+<item>1F33E;Animals and Nature</item>
+<item>1F33F;Animals and Nature</item>
+<item>2618,FE0F;Animals and Nature</item>
+<item>1F340;Animals and Nature</item>
+<item>1F341;Animals and Nature</item>
+<item>1F342;Animals and Nature</item>
+<item>1F343;Animals and Nature</item>
+<item>1F347;Food and Drink</item>
+<item>1F348;Food and Drink</item>
+<item>1F349;Food and Drink</item>
+<item>1F34A;Food and Drink</item>
+<item>1F34B;Food and Drink</item>
+<item>1F34C;Food and Drink</item>
+<item>1F34D;Food and Drink</item>
+<item>1F34E;Food and Drink</item>
+<item>1F34F;Food and Drink</item>
+<item>1F350;Food and Drink</item>
+<item>1F351;Food and Drink</item>
+<item>1F352;Food and Drink</item>
+<item>1F353;Food and Drink</item>
+<item>1F95D;Food and Drink</item>
+<item>1F345;Food and Drink</item>
+<item>1F965;Food and Drink</item>
+<item>1F951;Food and Drink</item>
+<item>1F346;Food and Drink</item>
+<item>1F954;Food and Drink</item>
+<item>1F955;Food and Drink</item>
+<item>1F33D;Food and Drink</item>
+<item>1F336,FE0F;Food and Drink</item>
+<item>1F952;Food and Drink</item>
+<item>1F966;Food and Drink</item>
+<item>1F344;Food and Drink</item>
+<item>1F95C;Food and Drink</item>
+<item>1F330;Food and Drink</item>
+<item>1F35E;Food and Drink</item>
+<item>1F950;Food and Drink</item>
+<item>1F956;Food and Drink</item>
+<item>1F968;Food and Drink</item>
+<item>1F95E;Food and Drink</item>
+<item>1F9C0;Food and Drink</item>
+<item>1F356;Food and Drink</item>
+<item>1F357;Food and Drink</item>
+<item>1F969;Food and Drink</item>
+<item>1F953;Food and Drink</item>
+<item>1F354;Food and Drink</item>
+<item>1F35F;Food and Drink</item>
+<item>1F355;Food and Drink</item>
+<item>1F32D;Food and Drink</item>
+<item>1F96A;Food and Drink</item>
+<item>1F32E;Food and Drink</item>
+<item>1F32F;Food and Drink</item>
+<item>1F959;Food and Drink</item>
+<item>1F95A;Food and Drink</item>
+<item>1F373;Food and Drink</item>
+<item>1F958;Food and Drink</item>
+<item>1F372;Food and Drink</item>
+<item>1F963;Food and Drink</item>
+<item>1F957;Food and Drink</item>
+<item>1F37F;Food and Drink</item>
+<item>1F96B;Food and Drink</item>
+<item>1F371;Food and Drink</item>
+<item>1F358;Food and Drink</item>
+<item>1F359;Food and Drink</item>
+<item>1F35A;Food and Drink</item>
+<item>1F35B;Food and Drink</item>
+<item>1F35C;Food and Drink</item>
+<item>1F35D;Food and Drink</item>
+<item>1F360;Food and Drink</item>
+<item>1F362;Food and Drink</item>
+<item>1F363;Food and Drink</item>
+<item>1F364;Food and Drink</item>
+<item>1F365;Food and Drink</item>
+<item>1F361;Food and Drink</item>
+<item>1F95F;Food and Drink</item>
+<item>1F960;Food and Drink</item>
+<item>1F961;Food and Drink</item>
+<item>1F366;Food and Drink</item>
+<item>1F367;Food and Drink</item>
+<item>1F368;Food and Drink</item>
+<item>1F369;Food and Drink</item>
+<item>1F36A;Food and Drink</item>
+<item>1F382;Food and Drink</item>
+<item>1F370;Food and Drink</item>
+<item>1F967;Food and Drink</item>
+<item>1F36B;Food and Drink</item>
+<item>1F36C;Food and Drink</item>
+<item>1F36D;Food and Drink</item>
+<item>1F36E;Food and Drink</item>
+<item>1F36F;Food and Drink</item>
+<item>1F37C;Food and Drink</item>
+<item>1F95B;Food and Drink</item>
+<item>2615;Food and Drink</item>
+<item>1F375;Food and Drink</item>
+<item>1F376;Food and Drink</item>
+<item>1F37E;Food and Drink</item>
+<item>1F377;Food and Drink</item>
+<item>1F378;Food and Drink</item>
+<item>1F379;Food and Drink</item>
+<item>1F37A;Food and Drink</item>
+<item>1F37B;Food and Drink</item>
+<item>1F942;Food and Drink</item>
+<item>1F943;Food and Drink</item>
+<item>1F964;Food and Drink</item>
+<item>1F962;Food and Drink</item>
+<item>1F37D,FE0F;Food and Drink</item>
+<item>1F374;Food and Drink</item>
+<item>1F944;Food and Drink</item>
+<item>1F52A;Food and Drink</item>
+<item>1F3FA;Food and Drink</item>
+<item>1F30D;Travel and Places</item>
+<item>1F30E;Travel and Places</item>
+<item>1F30F;Travel and Places</item>
+<item>1F310;Travel and Places</item>
+<item>1F5FA,FE0F;Travel and Places</item>
+<item>1F5FE;Travel and Places</item>
+<item>1F3D4,FE0F;Travel and Places</item>
+<item>26F0,FE0F;Travel and Places</item>
+<item>1F30B;Travel and Places</item>
+<item>1F5FB;Travel and Places</item>
+<item>1F3D5,FE0F;Travel and Places</item>
+<item>1F3D6,FE0F;Travel and Places</item>
+<item>1F3DC,FE0F;Travel and Places</item>
+<item>1F3DD,FE0F;Travel and Places</item>
+<item>1F3DE,FE0F;Travel and Places</item>
+<item>1F3DF,FE0F;Travel and Places</item>
+<item>1F3DB,FE0F;Travel and Places</item>
+<item>1F3D7,FE0F;Travel and Places</item>
+<item>1F3D8,FE0F;Travel and Places</item>
+<item>1F3D9,FE0F;Travel and Places</item>
+<item>1F3DA,FE0F;Travel and Places</item>
+<item>1F3E0;Travel and Places</item>
+<item>1F3E1;Travel and Places</item>
+<item>1F3E2;Travel and Places</item>
+<item>1F3E3;Travel and Places</item>
+<item>1F3E4;Travel and Places</item>
+<item>1F3E5;Travel and Places</item>
+<item>1F3E6;Travel and Places</item>
+<item>1F3E8;Travel and Places</item>
+<item>1F3E9;Travel and Places</item>
+<item>1F3EA;Travel and Places</item>
+<item>1F3EB;Travel and Places</item>
+<item>1F3EC;Travel and Places</item>
+<item>1F3ED;Travel and Places</item>
+<item>1F3EF;Travel and Places</item>
+<item>1F3F0;Travel and Places</item>
+<item>1F492;Travel and Places</item>
+<item>1F5FC;Travel and Places</item>
+<item>1F5FD;Travel and Places</item>
+<item>26EA;Travel and Places</item>
+<item>1F54C;Travel and Places</item>
+<item>1F54D;Travel and Places</item>
+<item>26E9,FE0F;Travel and Places</item>
+<item>1F54B;Travel and Places</item>
+<item>26F2;Travel and Places</item>
+<item>26FA;Travel and Places</item>
+<item>1F301;Travel and Places</item>
+<item>1F303;Travel and Places</item>
+<item>1F304;Travel and Places</item>
+<item>1F305;Travel and Places</item>
+<item>1F306;Travel and Places</item>
+<item>1F307;Travel and Places</item>
+<item>1F309;Travel and Places</item>
+<item>2668,FE0F;Travel and Places</item>
+<item>1F30C;Travel and Places</item>
+<item>1F3A0;Travel and Places</item>
+<item>1F3A1;Travel and Places</item>
+<item>1F3A2;Travel and Places</item>
+<item>1F488;Travel and Places</item>
+<item>1F3AA;Travel and Places</item>
+<item>1F3AD;Travel and Places</item>
+<item>1F5BC,FE0F;Travel and Places</item>
+<item>1F3A8;Travel and Places</item>
+<item>1F3B0;Travel and Places</item>
+<item>1F682;Travel and Places</item>
+<item>1F683;Travel and Places</item>
+<item>1F684;Travel and Places</item>
+<item>1F685;Travel and Places</item>
+<item>1F686;Travel and Places</item>
+<item>1F687;Travel and Places</item>
+<item>1F688;Travel and Places</item>
+<item>1F689;Travel and Places</item>
+<item>1F68A;Travel and Places</item>
+<item>1F69D;Travel and Places</item>
+<item>1F69E;Travel and Places</item>
+<item>1F68B;Travel and Places</item>
+<item>1F68C;Travel and Places</item>
+<item>1F68D;Travel and Places</item>
+<item>1F68E;Travel and Places</item>
+<item>1F690;Travel and Places</item>
+<item>1F691;Travel and Places</item>
+<item>1F692;Travel and Places</item>
+<item>1F693;Travel and Places</item>
+<item>1F694;Travel and Places</item>
+<item>1F695;Travel and Places</item>
+<item>1F696;Travel and Places</item>
+<item>1F697;Travel and Places</item>
+<item>1F698;Travel and Places</item>
+<item>1F699;Travel and Places</item>
+<item>1F69A;Travel and Places</item>
+<item>1F69B;Travel and Places</item>
+<item>1F69C;Travel and Places</item>
+<item>1F6B2;Travel and Places</item>
+<item>1F6F4;Travel and Places</item>
+<item>1F6F5;Travel and Places</item>
+<item>1F68F;Travel and Places</item>
+<item>1F6E3,FE0F;Travel and Places</item>
+<item>1F6E4,FE0F;Travel and Places</item>
+<item>26FD;Travel and Places</item>
+<item>1F6A8;Travel and Places</item>
+<item>1F6A5;Travel and Places</item>
+<item>1F6A6;Travel and Places</item>
+<item>1F6A7;Travel and Places</item>
+<item>1F6D1;Travel and Places</item>
+<item>2693;Travel and Places</item>
+<item>26F5;Travel and Places</item>
+<item>1F6F6;Travel and Places</item>
+<item>1F6A4;Travel and Places</item>
+<item>1F6F3,FE0F;Travel and Places</item>
+<item>26F4,FE0F;Travel and Places</item>
+<item>1F6E5,FE0F;Travel and Places</item>
+<item>1F6A2;Travel and Places</item>
+<item>2708,FE0F;Travel and Places</item>
+<item>1F6E9,FE0F;Travel and Places</item>
+<item>1F6EB;Travel and Places</item>
+<item>1F6EC;Travel and Places</item>
+<item>1F4BA;Travel and Places</item>
+<item>1F681;Travel and Places</item>
+<item>1F69F;Travel and Places</item>
+<item>1F6A0;Travel and Places</item>
+<item>1F6A1;Travel and Places</item>
+<item>1F6F0,FE0F;Travel and Places</item>
+<item>1F680;Travel and Places</item>
+<item>1F6F8;Travel and Places</item>
+<item>1F6CE,FE0F;Travel and Places</item>
+<item>1F6AA;Travel and Places</item>
+<item>1F6CF,FE0F;Travel and Places</item>
+<item>1F6CB,FE0F;Travel and Places</item>
+<item>1F6BD;Travel and Places</item>
+<item>1F6BF;Travel and Places</item>
+<item>1F6C1;Travel and Places</item>
+<item>231B;Travel and Places</item>
+<item>23F3;Travel and Places</item>
+<item>231A;Travel and Places</item>
+<item>23F0;Travel and Places</item>
+<item>23F1,FE0F;Travel and Places</item>
+<item>23F2,FE0F;Travel and Places</item>
+<item>1F570,FE0F;Travel and Places</item>
+<item>1F55B;Travel and Places</item>
+<item>1F567;Travel and Places</item>
+<item>1F550;Travel and Places</item>
+<item>1F55C;Travel and Places</item>
+<item>1F551;Travel and Places</item>
+<item>1F55D;Travel and Places</item>
+<item>1F552;Travel and Places</item>
+<item>1F55E;Travel and Places</item>
+<item>1F553;Travel and Places</item>
+<item>1F55F;Travel and Places</item>
+<item>1F554;Travel and Places</item>
+<item>1F560;Travel and Places</item>
+<item>1F555;Travel and Places</item>
+<item>1F561;Travel and Places</item>
+<item>1F556;Travel and Places</item>
+<item>1F562;Travel and Places</item>
+<item>1F557;Travel and Places</item>
+<item>1F563;Travel and Places</item>
+<item>1F558;Travel and Places</item>
+<item>1F564;Travel and Places</item>
+<item>1F559;Travel and Places</item>
+<item>1F565;Travel and Places</item>
+<item>1F55A;Travel and Places</item>
+<item>1F566;Travel and Places</item>
+<item>1F311;Travel and Places</item>
+<item>1F312;Travel and Places</item>
+<item>1F313;Travel and Places</item>
+<item>1F314;Travel and Places</item>
+<item>1F315;Travel and Places</item>
+<item>1F316;Travel and Places</item>
+<item>1F317;Travel and Places</item>
+<item>1F318;Travel and Places</item>
+<item>1F319;Travel and Places</item>
+<item>1F31A;Travel and Places</item>
+<item>1F31B;Travel and Places</item>
+<item>1F31C;Travel and Places</item>
+<item>1F321,FE0F;Travel and Places</item>
+<item>2600,FE0F;Travel and Places</item>
+<item>1F31D;Travel and Places</item>
+<item>1F31E;Travel and Places</item>
+<item>2B50;Travel and Places</item>
+<item>1F31F;Travel and Places</item>
+<item>1F320;Travel and Places</item>
+<item>2601,FE0F;Travel and Places</item>
+<item>26C5;Travel and Places</item>
+<item>26C8,FE0F;Travel and Places</item>
+<item>1F324,FE0F;Travel and Places</item>
+<item>1F325,FE0F;Travel and Places</item>
+<item>1F326,FE0F;Travel and Places</item>
+<item>1F327,FE0F;Travel and Places</item>
+<item>1F328,FE0F;Travel and Places</item>
+<item>1F329,FE0F;Travel and Places</item>
+<item>1F32A,FE0F;Travel and Places</item>
+<item>1F32B,FE0F;Travel and Places</item>
+<item>1F32C,FE0F;Travel and Places</item>
+<item>1F300;Travel and Places</item>
+<item>1F308;Travel and Places</item>
+<item>1F302;Travel and Places</item>
+<item>2602,FE0F;Travel and Places</item>
+<item>2614;Travel and Places</item>
+<item>26F1,FE0F;Travel and Places</item>
+<item>26A1;Travel and Places</item>
+<item>2744,FE0F;Travel and Places</item>
+<item>2603,FE0F;Travel and Places</item>
+<item>26C4;Travel and Places</item>
+<item>2604,FE0F;Travel and Places</item>
+<item>1F525;Travel and Places</item>
+<item>1F4A7;Travel and Places</item>
+<item>1F30A;Travel and Places</item>
+<item>1F383;Activities</item>
+<item>1F384;Activities</item>
+<item>1F386;Activities</item>
+<item>1F387;Activities</item>
+<item>2728;Activities</item>
+<item>1F388;Activities</item>
+<item>1F389;Activities</item>
+<item>1F38A;Activities</item>
+<item>1F38B;Activities</item>
+<item>1F38D;Activities</item>
+<item>1F38E;Activities</item>
+<item>1F38F;Activities</item>
+<item>1F390;Activities</item>
+<item>1F391;Activities</item>
+<item>1F380;Activities</item>
+<item>1F381;Activities</item>
+<item>1F397,FE0F;Activities</item>
+<item>1F39F,FE0F;Activities</item>
+<item>1F3AB;Activities</item>
+<item>1F396,FE0F;Activities</item>
+<item>1F3C6;Activities</item>
+<item>1F3C5;Activities</item>
+<item>1F947;Activities</item>
+<item>1F948;Activities</item>
+<item>1F949;Activities</item>
+<item>26BD;Activities</item>
+<item>26BE;Activities</item>
+<item>1F3C0;Activities</item>
+<item>1F3D0;Activities</item>
+<item>1F3C8;Activities</item>
+<item>1F3C9;Activities</item>
+<item>1F3BE;Activities</item>
+<item>1F3B1;Activities</item>
+<item>1F3B3;Activities</item>
+<item>1F3CF;Activities</item>
+<item>1F3D1;Activities</item>
+<item>1F3D2;Activities</item>
+<item>1F3D3;Activities</item>
+<item>1F3F8;Activities</item>
+<item>1F94A;Activities</item>
+<item>1F94B;Activities</item>
+<item>1F945;Activities</item>
+<item>1F3AF;Activities</item>
+<item>26F3;Activities</item>
+<item>26F8,FE0F;Activities</item>
+<item>1F3A3;Activities</item>
+<item>1F3BD;Activities</item>
+<item>1F3BF;Activities</item>
+<item>1F6F7;Activities</item>
+<item>1F94C;Activities</item>
+<item>1F3AE;Activities</item>
+<item>1F579,FE0F;Activities</item>
+<item>1F3B2;Activities</item>
+<item>2660,FE0F;Activities</item>
+<item>2665,FE0F;Activities</item>
+<item>2666,FE0F;Activities</item>
+<item>2663,FE0F;Activities</item>
+<item>1F0CF;Activities</item>
+<item>1F004;Activities</item>
+<item>1F3B4;Activities</item>
+<item>1F507;Objects</item>
+<item>1F508;Objects</item>
+<item>1F509;Objects</item>
+<item>1F50A;Objects</item>
+<item>1F4E2;Objects</item>
+<item>1F4E3;Objects</item>
+<item>1F4EF;Objects</item>
+<item>1F514;Objects</item>
+<item>1F515;Objects</item>
+<item>1F3BC;Objects</item>
+<item>1F3B5;Objects</item>
+<item>1F3B6;Objects</item>
+<item>1F399,FE0F;Objects</item>
+<item>1F39A,FE0F;Objects</item>
+<item>1F39B,FE0F;Objects</item>
+<item>1F3A4;Objects</item>
+<item>1F3A7;Objects</item>
+<item>1F4FB;Objects</item>
+<item>1F3B7;Objects</item>
+<item>1F3B8;Objects</item>
+<item>1F3B9;Objects</item>
+<item>1F3BA;Objects</item>
+<item>1F3BB;Objects</item>
+<item>1F941;Objects</item>
+<item>1F4F1;Objects</item>
+<item>1F4F2;Objects</item>
+<item>260E,FE0F;Objects</item>
+<item>1F4DE;Objects</item>
+<item>1F4DF;Objects</item>
+<item>1F4E0;Objects</item>
+<item>1F50B;Objects</item>
+<item>1F50C;Objects</item>
+<item>1F4BB;Objects</item>
+<item>1F5A5,FE0F;Objects</item>
+<item>1F5A8,FE0F;Objects</item>
+<item>2328,FE0F;Objects</item>
+<item>1F5B1,FE0F;Objects</item>
+<item>1F5B2,FE0F;Objects</item>
+<item>1F4BD;Objects</item>
+<item>1F4BE;Objects</item>
+<item>1F4BF;Objects</item>
+<item>1F4C0;Objects</item>
+<item>1F3A5;Objects</item>
+<item>1F39E,FE0F;Objects</item>
+<item>1F4FD,FE0F;Objects</item>
+<item>1F3AC;Objects</item>
+<item>1F4FA;Objects</item>
+<item>1F4F7;Objects</item>
+<item>1F4F8;Objects</item>
+<item>1F4F9;Objects</item>
+<item>1F4FC;Objects</item>
+<item>1F50D;Objects</item>
+<item>1F50E;Objects</item>
+<item>1F52C;Objects</item>
+<item>1F52D;Objects</item>
+<item>1F4E1;Objects</item>
+<item>1F56F,FE0F;Objects</item>
+<item>1F4A1;Objects</item>
+<item>1F526;Objects</item>
+<item>1F3EE;Objects</item>
+<item>1F4D4;Objects</item>
+<item>1F4D5;Objects</item>
+<item>1F4D6;Objects</item>
+<item>1F4D7;Objects</item>
+<item>1F4D8;Objects</item>
+<item>1F4D9;Objects</item>
+<item>1F4DA;Objects</item>
+<item>1F4D3;Objects</item>
+<item>1F4D2;Objects</item>
+<item>1F4C3;Objects</item>
+<item>1F4DC;Objects</item>
+<item>1F4C4;Objects</item>
+<item>1F4F0;Objects</item>
+<item>1F5DE,FE0F;Objects</item>
+<item>1F4D1;Objects</item>
+<item>1F516;Objects</item>
+<item>1F3F7,FE0F;Objects</item>
+<item>1F4B0;Objects</item>
+<item>1F4B4;Objects</item>
+<item>1F4B5;Objects</item>
+<item>1F4B6;Objects</item>
+<item>1F4B7;Objects</item>
+<item>1F4B8;Objects</item>
+<item>1F4B3;Objects</item>
+<item>1F4B9;Objects</item>
+<item>1F4B1;Objects</item>
+<item>1F4B2;Objects</item>
+<item>2709,FE0F;Objects</item>
+<item>1F4E7;Objects</item>
+<item>1F4E8;Objects</item>
+<item>1F4E9;Objects</item>
+<item>1F4E4;Objects</item>
+<item>1F4E5;Objects</item>
+<item>1F4E6;Objects</item>
+<item>1F4EB;Objects</item>
+<item>1F4EA;Objects</item>
+<item>1F4EC;Objects</item>
+<item>1F4ED;Objects</item>
+<item>1F4EE;Objects</item>
+<item>1F5F3,FE0F;Objects</item>
+<item>270F,FE0F;Objects</item>
+<item>2712,FE0F;Objects</item>
+<item>1F58B,FE0F;Objects</item>
+<item>1F58A,FE0F;Objects</item>
+<item>1F58C,FE0F;Objects</item>
+<item>1F58D,FE0F;Objects</item>
+<item>1F4DD;Objects</item>
+<item>1F4BC;Objects</item>
+<item>1F4C1;Objects</item>
+<item>1F4C2;Objects</item>
+<item>1F5C2,FE0F;Objects</item>
+<item>1F4C5;Objects</item>
+<item>1F4C6;Objects</item>
+<item>1F5D2,FE0F;Objects</item>
+<item>1F5D3,FE0F;Objects</item>
+<item>1F4C7;Objects</item>
+<item>1F4C8;Objects</item>
+<item>1F4C9;Objects</item>
+<item>1F4CA;Objects</item>
+<item>1F4CB;Objects</item>
+<item>1F4CC;Objects</item>
+<item>1F4CD;Objects</item>
+<item>1F4CE;Objects</item>
+<item>1F587,FE0F;Objects</item>
+<item>1F4CF;Objects</item>
+<item>1F4D0;Objects</item>
+<item>2702,FE0F;Objects</item>
+<item>1F5C3,FE0F;Objects</item>
+<item>1F5C4,FE0F;Objects</item>
+<item>1F5D1,FE0F;Objects</item>
+<item>1F512;Objects</item>
+<item>1F513;Objects</item>
+<item>1F50F;Objects</item>
+<item>1F510;Objects</item>
+<item>1F511;Objects</item>
+<item>1F5DD,FE0F;Objects</item>
+<item>1F528;Objects</item>
+<item>26CF,FE0F;Objects</item>
+<item>2692,FE0F;Objects</item>
+<item>1F6E0,FE0F;Objects</item>
+<item>1F5E1,FE0F;Objects</item>
+<item>2694,FE0F;Objects</item>
+<item>1F52B;Objects</item>
+<item>1F3F9;Objects</item>
+<item>1F6E1,FE0F;Objects</item>
+<item>1F527;Objects</item>
+<item>1F529;Objects</item>
+<item>2699,FE0F;Objects</item>
+<item>1F5DC,FE0F;Objects</item>
+<item>2697,FE0F;Objects</item>
+<item>2696,FE0F;Objects</item>
+<item>1F517;Objects</item>
+<item>26D3,FE0F;Objects</item>
+<item>1F489;Objects</item>
+<item>1F48A;Objects</item>
+<item>1F6AC;Objects</item>
+<item>26B0,FE0F;Objects</item>
+<item>26B1,FE0F;Objects</item>
+<item>1F5FF;Objects</item>
+<item>1F6E2,FE0F;Objects</item>
+<item>1F52E;Objects</item>
+<item>1F6D2;Objects</item>
+<item>1F3E7;Symbols</item>
+<item>1F6AE;Symbols</item>
+<item>1F6B0;Symbols</item>
+<item>267F;Symbols</item>
+<item>1F6B9;Symbols</item>
+<item>1F6BA;Symbols</item>
+<item>1F6BB;Symbols</item>
+<item>1F6BC;Symbols</item>
+<item>1F6BE;Symbols</item>
+<item>1F6C2;Symbols</item>
+<item>1F6C3;Symbols</item>
+<item>1F6C4;Symbols</item>
+<item>1F6C5;Symbols</item>
+<item>26A0,FE0F;Symbols</item>
+<item>1F6B8;Symbols</item>
+<item>26D4;Symbols</item>
+<item>1F6AB;Symbols</item>
+<item>1F6B3;Symbols</item>
+<item>1F6AD;Symbols</item>
+<item>1F6AF;Symbols</item>
+<item>1F6B1;Symbols</item>
+<item>1F6B7;Symbols</item>
+<item>1F4F5;Symbols</item>
+<item>1F51E;Symbols</item>
+<item>2622,FE0F;Symbols</item>
+<item>2623,FE0F;Symbols</item>
+<item>2B06,FE0F;Symbols</item>
+<item>2197,FE0F;Symbols</item>
+<item>27A1,FE0F;Symbols</item>
+<item>2198,FE0F;Symbols</item>
+<item>2B07,FE0F;Symbols</item>
+<item>2199,FE0F;Symbols</item>
+<item>2B05,FE0F;Symbols</item>
+<item>2196,FE0F;Symbols</item>
+<item>2195,FE0F;Symbols</item>
+<item>2194,FE0F;Symbols</item>
+<item>21A9,FE0F;Symbols</item>
+<item>21AA,FE0F;Symbols</item>
+<item>2934,FE0F;Symbols</item>
+<item>2935,FE0F;Symbols</item>
+<item>1F503;Symbols</item>
+<item>1F504;Symbols</item>
+<item>1F519;Symbols</item>
+<item>1F51A;Symbols</item>
+<item>1F51B;Symbols</item>
+<item>1F51C;Symbols</item>
+<item>1F51D;Symbols</item>
+<item>1F6D0;Symbols</item>
+<item>269B,FE0F;Symbols</item>
+<item>1F549,FE0F;Symbols</item>
+<item>2721,FE0F;Symbols</item>
+<item>2638,FE0F;Symbols</item>
+<item>262F,FE0F;Symbols</item>
+<item>271D,FE0F;Symbols</item>
+<item>2626,FE0F;Symbols</item>
+<item>262A,FE0F;Symbols</item>
+<item>262E,FE0F;Symbols</item>
+<item>1F54E;Symbols</item>
+<item>1F52F;Symbols</item>
+<item>2648;Symbols</item>
+<item>2649;Symbols</item>
+<item>264A;Symbols</item>
+<item>264B;Symbols</item>
+<item>264C;Symbols</item>
+<item>264D;Symbols</item>
+<item>264E;Symbols</item>
+<item>264F;Symbols</item>
+<item>2650;Symbols</item>
+<item>2651;Symbols</item>
+<item>2652;Symbols</item>
+<item>2653;Symbols</item>
+<item>26CE;Symbols</item>
+<item>1F500;Symbols</item>
+<item>1F501;Symbols</item>
+<item>1F502;Symbols</item>
+<item>25B6,FE0F;Symbols</item>
+<item>23E9;Symbols</item>
+<item>23ED,FE0F;Symbols</item>
+<item>23EF,FE0F;Symbols</item>
+<item>25C0,FE0F;Symbols</item>
+<item>23EA;Symbols</item>
+<item>23EE,FE0F;Symbols</item>
+<item>1F53C;Symbols</item>
+<item>23EB;Symbols</item>
+<item>1F53D;Symbols</item>
+<item>23EC;Symbols</item>
+<item>23F8,FE0F;Symbols</item>
+<item>23F9,FE0F;Symbols</item>
+<item>23FA,FE0F;Symbols</item>
+<item>23CF,FE0F;Symbols</item>
+<item>1F3A6;Symbols</item>
+<item>1F505;Symbols</item>
+<item>1F506;Symbols</item>
+<item>1F4F6;Symbols</item>
+<item>1F4F3;Symbols</item>
+<item>1F4F4;Symbols</item>
+<item>2640,FE0F;Symbols</item>
+<item>2642,FE0F;Symbols</item>
+<item>2695,FE0F;Symbols</item>
+<item>267B,FE0F;Symbols</item>
+<item>269C,FE0F;Symbols</item>
+<item>1F531;Symbols</item>
+<item>1F4DB;Symbols</item>
+<item>1F530;Symbols</item>
+<item>2B55;Symbols</item>
+<item>2705;Symbols</item>
+<item>2611,FE0F;Symbols</item>
+<item>2714,FE0F;Symbols</item>
+<item>2716,FE0F;Symbols</item>
+<item>274C;Symbols</item>
+<item>274E;Symbols</item>
+<item>2795;Symbols</item>
+<item>2796;Symbols</item>
+<item>2797;Symbols</item>
+<item>27B0;Symbols</item>
+<item>27BF;Symbols</item>
+<item>303D,FE0F;Symbols</item>
+<item>2733,FE0F;Symbols</item>
+<item>2734,FE0F;Symbols</item>
+<item>2747,FE0F;Symbols</item>
+<item>203C,FE0F;Symbols</item>
+<item>2049,FE0F;Symbols</item>
+<item>2753;Symbols</item>
+<item>2754;Symbols</item>
+<item>2755;Symbols</item>
+<item>2757;Symbols</item>
+<item>3030,FE0F;Symbols</item>
+<item>00A9,FE0F;Symbols</item>
+<item>00AE,FE0F;Symbols</item>
+<item>2122,FE0F;Symbols</item>
+<item>0023,FE0F,20E3;Symbols</item>
+<item>002A,FE0F,20E3;Symbols</item>
+<item>0030,FE0F,20E3;Symbols</item>
+<item>0031,FE0F,20E3;Symbols</item>
+<item>0032,FE0F,20E3;Symbols</item>
+<item>0033,FE0F,20E3;Symbols</item>
+<item>0034,FE0F,20E3;Symbols</item>
+<item>0035,FE0F,20E3;Symbols</item>
+<item>0036,FE0F,20E3;Symbols</item>
+<item>0037,FE0F,20E3;Symbols</item>
+<item>0038,FE0F,20E3;Symbols</item>
+<item>0039,FE0F,20E3;Symbols</item>
+<item>1F51F;Symbols</item>
+<item>1F4AF;Symbols</item>
+<item>1F520;Symbols</item>
+<item>1F521;Symbols</item>
+<item>1F522;Symbols</item>
+<item>1F523;Symbols</item>
+<item>1F524;Symbols</item>
+<item>1F170,FE0F;Symbols</item>
+<item>1F18E;Symbols</item>
+<item>1F171,FE0F;Symbols</item>
+<item>1F191;Symbols</item>
+<item>1F192;Symbols</item>
+<item>1F193;Symbols</item>
+<item>2139,FE0F;Symbols</item>
+<item>1F194;Symbols</item>
+<item>24C2,FE0F;Symbols</item>
+<item>1F195;Symbols</item>
+<item>1F196;Symbols</item>
+<item>1F17E,FE0F;Symbols</item>
+<item>1F197;Symbols</item>
+<item>1F17F,FE0F;Symbols</item>
+<item>1F198;Symbols</item>
+<item>1F199;Symbols</item>
+<item>1F19A;Symbols</item>
+<item>1F201;Symbols</item>
+<item>1F202,FE0F;Symbols</item>
+<item>1F237,FE0F;Symbols</item>
+<item>1F236;Symbols</item>
+<item>1F22F;Symbols</item>
+<item>1F250;Symbols</item>
+<item>1F239;Symbols</item>
+<item>1F21A;Symbols</item>
+<item>1F232;Symbols</item>
+<item>1F251;Symbols</item>
+<item>1F238;Symbols</item>
+<item>1F234;Symbols</item>
+<item>1F233;Symbols</item>
+<item>3297,FE0F;Symbols</item>
+<item>3299,FE0F;Symbols</item>
+<item>1F23A;Symbols</item>
+<item>1F235;Symbols</item>
+<item>25AA,FE0F;Symbols</item>
+<item>25AB,FE0F;Symbols</item>
+<item>25FB,FE0F;Symbols</item>
+<item>25FC,FE0F;Symbols</item>
+<item>25FD;Symbols</item>
+<item>25FE;Symbols</item>
+<item>2B1B;Symbols</item>
+<item>2B1C;Symbols</item>
+<item>1F536;Symbols</item>
+<item>1F537;Symbols</item>
+<item>1F538;Symbols</item>
+<item>1F539;Symbols</item>
+<item>1F53A;Symbols</item>
+<item>1F53B;Symbols</item>
+<item>1F4A0;Symbols</item>
+<item>1F518;Symbols</item>
+<item>1F532;Symbols</item>
+<item>1F533;Symbols</item>
+<item>26AA;Symbols</item>
+<item>26AB;Symbols</item>
+<item>1F534;Symbols</item>
+<item>1F535;Symbols</item>
+<item>1F3C1;Flags</item>
+<item>1F6A9;Flags</item>
+<item>1F38C;Flags</item>
+<item>1F3F4;Flags</item>
+<item>1F3F3,FE0F;Flags</item>
+<item>1F3F3,FE0F,200D,1F308;Flags</item>
+<item>1F1E6,1F1E8;Flags</item>
+<item>1F1E6,1F1E9;Flags</item>
+<item>1F1E6,1F1EA;Flags</item>
+<item>1F1E6,1F1EB;Flags</item>
+<item>1F1E6,1F1EC;Flags</item>
+<item>1F1E6,1F1EE;Flags</item>
+<item>1F1E6,1F1F1;Flags</item>
+<item>1F1E6,1F1F2;Flags</item>
+<item>1F1E6,1F1F4;Flags</item>
+<item>1F1E6,1F1F6;Flags</item>
+<item>1F1E6,1F1F7;Flags</item>
+<item>1F1E6,1F1F8;Flags</item>
+<item>1F1E6,1F1F9;Flags</item>
+<item>1F1E6,1F1FA;Flags</item>
+<item>1F1E6,1F1FC;Flags</item>
+<item>1F1E6,1F1FD;Flags</item>
+<item>1F1E6,1F1FF;Flags</item>
+<item>1F1E7,1F1E6;Flags</item>
+<item>1F1E7,1F1E7;Flags</item>
+<item>1F1E7,1F1E9;Flags</item>
+<item>1F1E7,1F1EA;Flags</item>
+<item>1F1E7,1F1EB;Flags</item>
+<item>1F1E7,1F1EC;Flags</item>
+<item>1F1E7,1F1ED;Flags</item>
+<item>1F1E7,1F1EE;Flags</item>
+<item>1F1E7,1F1EF;Flags</item>
+<item>1F1E7,1F1F1;Flags</item>
+<item>1F1E7,1F1F2;Flags</item>
+<item>1F1E7,1F1F3;Flags</item>
+<item>1F1E7,1F1F4;Flags</item>
+<item>1F1E7,1F1F6;Flags</item>
+<item>1F1E7,1F1F7;Flags</item>
+<item>1F1E7,1F1F8;Flags</item>
+<item>1F1E7,1F1F9;Flags</item>
+<item>1F1E7,1F1FB;Flags</item>
+<item>1F1E7,1F1FC;Flags</item>
+<item>1F1E7,1F1FE;Flags</item>
+<item>1F1E7,1F1FF;Flags</item>
+<item>1F1E8,1F1E6;Flags</item>
+<item>1F1E8,1F1E8;Flags</item>
+<item>1F1E8,1F1E9;Flags</item>
+<item>1F1E8,1F1EB;Flags</item>
+<item>1F1E8,1F1EC;Flags</item>
+<item>1F1E8,1F1ED;Flags</item>
+<item>1F1E8,1F1EE;Flags</item>
+<item>1F1E8,1F1F0;Flags</item>
+<item>1F1E8,1F1F1;Flags</item>
+<item>1F1E8,1F1F2;Flags</item>
+<item>1F1E8,1F1F3;Flags</item>
+<item>1F1E8,1F1F4;Flags</item>
+<item>1F1E8,1F1F5;Flags</item>
+<item>1F1E8,1F1F7;Flags</item>
+<item>1F1E8,1F1FA;Flags</item>
+<item>1F1E8,1F1FB;Flags</item>
+<item>1F1E8,1F1FC;Flags</item>
+<item>1F1E8,1F1FD;Flags</item>
+<item>1F1E8,1F1FE;Flags</item>
+<item>1F1E8,1F1FF;Flags</item>
+<item>1F1E9,1F1EA;Flags</item>
+<item>1F1E9,1F1EC;Flags</item>
+<item>1F1E9,1F1EF;Flags</item>
+<item>1F1E9,1F1F0;Flags</item>
+<item>1F1E9,1F1F2;Flags</item>
+<item>1F1E9,1F1F4;Flags</item>
+<item>1F1E9,1F1FF;Flags</item>
+<item>1F1EA,1F1E6;Flags</item>
+<item>1F1EA,1F1E8;Flags</item>
+<item>1F1EA,1F1EA;Flags</item>
+<item>1F1EA,1F1EC;Flags</item>
+<item>1F1EA,1F1ED;Flags</item>
+<item>1F1EA,1F1F7;Flags</item>
+<item>1F1EA,1F1F8;Flags</item>
+<item>1F1EA,1F1F9;Flags</item>
+<item>1F1EA,1F1FA;Flags</item>
+<item>1F1EB,1F1EE;Flags</item>
+<item>1F1EB,1F1EF;Flags</item>
+<item>1F1EB,1F1F0;Flags</item>
+<item>1F1EB,1F1F2;Flags</item>
+<item>1F1EB,1F1F4;Flags</item>
+<item>1F1EB,1F1F7;Flags</item>
+<item>1F1EC,1F1E6;Flags</item>
+<item>1F1EC,1F1E7;Flags</item>
+<item>1F1EC,1F1E9;Flags</item>
+<item>1F1EC,1F1EA;Flags</item>
+<item>1F1EC,1F1EB;Flags</item>
+<item>1F1EC,1F1EC;Flags</item>
+<item>1F1EC,1F1ED;Flags</item>
+<item>1F1EC,1F1EE;Flags</item>
+<item>1F1EC,1F1F1;Flags</item>
+<item>1F1EC,1F1F2;Flags</item>
+<item>1F1EC,1F1F3;Flags</item>
+<item>1F1EC,1F1F5;Flags</item>
+<item>1F1EC,1F1F6;Flags</item>
+<item>1F1EC,1F1F7;Flags</item>
+<item>1F1EC,1F1F8;Flags</item>
+<item>1F1EC,1F1F9;Flags</item>
+<item>1F1EC,1F1FA;Flags</item>
+<item>1F1EC,1F1FC;Flags</item>
+<item>1F1EC,1F1FE;Flags</item>
+<item>1F1ED,1F1F0;Flags</item>
+<item>1F1ED,1F1F2;Flags</item>
+<item>1F1ED,1F1F3;Flags</item>
+<item>1F1ED,1F1F7;Flags</item>
+<item>1F1ED,1F1F9;Flags</item>
+<item>1F1ED,1F1FA;Flags</item>
+<item>1F1EE,1F1E8;Flags</item>
+<item>1F1EE,1F1E9;Flags</item>
+<item>1F1EE,1F1EA;Flags</item>
+<item>1F1EE,1F1F1;Flags</item>
+<item>1F1EE,1F1F2;Flags</item>
+<item>1F1EE,1F1F3;Flags</item>
+<item>1F1EE,1F1F4;Flags</item>
+<item>1F1EE,1F1F6;Flags</item>
+<item>1F1EE,1F1F7;Flags</item>
+<item>1F1EE,1F1F8;Flags</item>
+<item>1F1EE,1F1F9;Flags</item>
+<item>1F1EF,1F1EA;Flags</item>
+<item>1F1EF,1F1F2;Flags</item>
+<item>1F1EF,1F1F4;Flags</item>
+<item>1F1EF,1F1F5;Flags</item>
+<item>1F1F0,1F1EA;Flags</item>
+<item>1F1F0,1F1EC;Flags</item>
+<item>1F1F0,1F1ED;Flags</item>
+<item>1F1F0,1F1EE;Flags</item>
+<item>1F1F0,1F1F2;Flags</item>
+<item>1F1F0,1F1F3;Flags</item>
+<item>1F1F0,1F1F5;Flags</item>
+<item>1F1F0,1F1F7;Flags</item>
+<item>1F1F0,1F1FC;Flags</item>
+<item>1F1F0,1F1FE;Flags</item>
+<item>1F1F0,1F1FF;Flags</item>
+<item>1F1F1,1F1E6;Flags</item>
+<item>1F1F1,1F1E7;Flags</item>
+<item>1F1F1,1F1E8;Flags</item>
+<item>1F1F1,1F1EE;Flags</item>
+<item>1F1F1,1F1F0;Flags</item>
+<item>1F1F1,1F1F7;Flags</item>
+<item>1F1F1,1F1F8;Flags</item>
+<item>1F1F1,1F1F9;Flags</item>
+<item>1F1F1,1F1FA;Flags</item>
+<item>1F1F1,1F1FB;Flags</item>
+<item>1F1F1,1F1FE;Flags</item>
+<item>1F1F2,1F1E6;Flags</item>
+<item>1F1F2,1F1E8;Flags</item>
+<item>1F1F2,1F1E9;Flags</item>
+<item>1F1F2,1F1EA;Flags</item>
+<item>1F1F2,1F1EB;Flags</item>
+<item>1F1F2,1F1EC;Flags</item>
+<item>1F1F2,1F1ED;Flags</item>
+<item>1F1F2,1F1F0;Flags</item>
+<item>1F1F2,1F1F1;Flags</item>
+<item>1F1F2,1F1F2;Flags</item>
+<item>1F1F2,1F1F3;Flags</item>
+<item>1F1F2,1F1F4;Flags</item>
+<item>1F1F2,1F1F5;Flags</item>
+<item>1F1F2,1F1F6;Flags</item>
+<item>1F1F2,1F1F7;Flags</item>
+<item>1F1F2,1F1F8;Flags</item>
+<item>1F1F2,1F1F9;Flags</item>
+<item>1F1F2,1F1FA;Flags</item>
+<item>1F1F2,1F1FB;Flags</item>
+<item>1F1F2,1F1FC;Flags</item>
+<item>1F1F2,1F1FD;Flags</item>
+<item>1F1F2,1F1FE;Flags</item>
+<item>1F1F2,1F1FF;Flags</item>
+<item>1F1F3,1F1E6;Flags</item>
+<item>1F1F3,1F1E8;Flags</item>
+<item>1F1F3,1F1EA;Flags</item>
+<item>1F1F3,1F1EB;Flags</item>
+<item>1F1F3,1F1EC;Flags</item>
+<item>1F1F3,1F1EE;Flags</item>
+<item>1F1F3,1F1F1;Flags</item>
+<item>1F1F3,1F1F4;Flags</item>
+<item>1F1F3,1F1F5;Flags</item>
+<item>1F1F3,1F1F7;Flags</item>
+<item>1F1F3,1F1FA;Flags</item>
+<item>1F1F3,1F1FF;Flags</item>
+<item>1F1F4,1F1F2;Flags</item>
+<item>1F1F5,1F1E6;Flags</item>
+<item>1F1F5,1F1EA;Flags</item>
+<item>1F1F5,1F1EB;Flags</item>
+<item>1F1F5,1F1EC;Flags</item>
+<item>1F1F5,1F1ED;Flags</item>
+<item>1F1F5,1F1F0;Flags</item>
+<item>1F1F5,1F1F1;Flags</item>
+<item>1F1F5,1F1F2;Flags</item>
+<item>1F1F5,1F1F3;Flags</item>
+<item>1F1F5,1F1F7;Flags</item>
+<item>1F1F5,1F1F8;Flags</item>
+<item>1F1F5,1F1F9;Flags</item>
+<item>1F1F5,1F1FC;Flags</item>
+<item>1F1F5,1F1FE;Flags</item>
+<item>1F1F6,1F1E6;Flags</item>
+<item>1F1F7,1F1EA;Flags</item>
+<item>1F1F7,1F1F4;Flags</item>
+<item>1F1F7,1F1F8;Flags</item>
+<item>1F1F7,1F1FA;Flags</item>
+<item>1F1F7,1F1FC;Flags</item>
+<item>1F1F8,1F1E6;Flags</item>
+<item>1F1F8,1F1E7;Flags</item>
+<item>1F1F8,1F1E8;Flags</item>
+<item>1F1F8,1F1E9;Flags</item>
+<item>1F1F8,1F1EA;Flags</item>
+<item>1F1F8,1F1EC;Flags</item>
+<item>1F1F8,1F1ED;Flags</item>
+<item>1F1F8,1F1EE;Flags</item>
+<item>1F1F8,1F1EF;Flags</item>
+<item>1F1F8,1F1F0;Flags</item>
+<item>1F1F8,1F1F1;Flags</item>
+<item>1F1F8,1F1F2;Flags</item>
+<item>1F1F8,1F1F3;Flags</item>
+<item>1F1F8,1F1F4;Flags</item>
+<item>1F1F8,1F1F7;Flags</item>
+<item>1F1F8,1F1F8;Flags</item>
+<item>1F1F8,1F1F9;Flags</item>
+<item>1F1F8,1F1FB;Flags</item>
+<item>1F1F8,1F1FD;Flags</item>
+<item>1F1F8,1F1FE;Flags</item>
+<item>1F1F8,1F1FF;Flags</item>
+<item>1F1F9,1F1E6;Flags</item>
+<item>1F1F9,1F1E8;Flags</item>
+<item>1F1F9,1F1E9;Flags</item>
+<item>1F1F9,1F1EB;Flags</item>
+<item>1F1F9,1F1EC;Flags</item>
+<item>1F1F9,1F1ED;Flags</item>
+<item>1F1F9,1F1EF;Flags</item>
+<item>1F1F9,1F1F0;Flags</item>
+<item>1F1F9,1F1F1;Flags</item>
+<item>1F1F9,1F1F2;Flags</item>
+<item>1F1F9,1F1F3;Flags</item>
+<item>1F1F9,1F1F4;Flags</item>
+<item>1F1F9,1F1F7;Flags</item>
+<item>1F1F9,1F1F9;Flags</item>
+<item>1F1F9,1F1FB;Flags</item>
+<item>1F1F9,1F1FC;Flags</item>
+<item>1F1F9,1F1FF;Flags</item>
+<item>1F1FA,1F1E6;Flags</item>
+<item>1F1FA,1F1EC;Flags</item>
+<item>1F1FA,1F1F2;Flags</item>
+<item>1F1FA,1F1F3;Flags</item>
+<item>1F1FA,1F1F8;Flags</item>
+<item>1F1FA,1F1FE;Flags</item>
+<item>1F1FA,1F1FF;Flags</item>
+<item>1F1FB,1F1E6;Flags</item>
+<item>1F1FB,1F1E8;Flags</item>
+<item>1F1FB,1F1EA;Flags</item>
+<item>1F1FB,1F1EC;Flags</item>
+<item>1F1FB,1F1EE;Flags</item>
+<item>1F1FB,1F1F3;Flags</item>
+<item>1F1FB,1F1FA;Flags</item>
+<item>1F1FC,1F1EB;Flags</item>
+<item>1F1FC,1F1F8;Flags</item>
+<item>1F1FD,1F1F0;Flags</item>
+<item>1F1FC,1F1EB;Flags</item>
+<item>1F1FC,1F1F8;Flags</item>
+<item>1F1FD,1F1F0;Flags</item>
+<item>1F1FE,1F1EA;Flags</item>
+<item>1F1FE,1F1F9;Flags</item>
+<item>1F1FF,1F1E6;Flags</item>
+<item>1F1FF,1F1F2;Flags</item>
+<item>1F1FF,1F1FC;Flags</item>
+<item>1F3F4,E0067,E0062,E0065,E006E,E0067,E007F;Flags</item>
+<item>1F3F4,E0067,E0062,E0073,E0063,E0074,E007F;Flags</item>
+<item>1F3F4,E0067,E0062,E0077,E006C,E0073,E007F;Flags</item>
